@@ -1,2 +1,1 @@
-# amsterdamcomics.github.io
-Amsterdam Comics Conference main site
+Amsterdam Comics Conference's site source -- amsterdamcomics.com
