@@ -1,7 +1,7 @@
 # Site settings
 title: Amsterdam Comics
 email: info@amsterdamcomics.com
-description: Asterdam Comics is a network of comics scholars in the Netherlands.
+description: Amsterdam Comics is an international network of comics scholars.
 baseurl: ""
 url: "http://amsterdamcomics.com" # the base hostname & protocol for your site
 github_username:  gauthiier
