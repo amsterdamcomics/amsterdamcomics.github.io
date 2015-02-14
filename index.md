@@ -6,7 +6,8 @@ published: true
 
 ## Amsterdam Comics Conference
 
-## Comics Interaction
+## "Comics Interaction"
+
 
 ### 1-3 July 2015
 
