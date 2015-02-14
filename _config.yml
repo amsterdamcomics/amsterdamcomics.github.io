@@ -11,3 +11,17 @@ markdown: kramdown
 
 # Custom Variables
 #navigation: true
+
+#prose
+prose:
+  siteurl: 'http://amsterdamcomics.com'
+  relativeLinks: ''
+  ignore:
+    - _layouts
+    - +++
+    - .gitignore
+    - CNAME
+    - LICENSE
+    - README.md
+    - feed.xml
+  media: 'img'
