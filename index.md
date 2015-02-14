@@ -5,6 +5,8 @@ title: Amsterdam Comics Conference
 
 ## Amsterdam Comics Conference
 
-### Call for papers
+### 1-3 July 2015
+
+#### Call for Papers
 
 coming soon...
