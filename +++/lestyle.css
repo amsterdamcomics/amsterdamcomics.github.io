@@ -1,9 +1,48 @@
-.boite_noire {
-	border: 10px grey ridge;	
+body {
+	font-family: questrial, sans-serif;
+	font-size:0.9em;
 }
 
-.tableau {
-	margin: 3em;
+h2 {
+	text-align: center;
+}
+
+h3 {
+	text-align: center;
+}
+
+#main {
+	width: 35em;
+}
+
+content {
+    padding: 1.5em;
+    max-width: 50em;    
+    display: block;
+    overflow:hidden;
+    text-align: justify;
+    margin: auto;
+    word-wrap: break-word;
+}
+
+.section {
+	float: left;
+	display: block;
+}
+
+.logo {
+	margin-right: 3em;
+	margin-top: 1em;
+	margin-bottom: 2em;
+	
+}
+
+.noir {
+	xborder: 1px solid black;
+}
+
+.rouge {
+	xborder: 1px solid red;	
 }
 
 
