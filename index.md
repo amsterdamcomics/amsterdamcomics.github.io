@@ -18,14 +18,14 @@ published: true
 
 <br>
 
-**Amsterdam Comics** is pleased to announce the call for papers for our inaugural international conference, 
+**Amsterdam Comics** is pleased to announce the call for papers for our inaugural international conference,
 **“Comics Interaction,”** which will take place from 1-3 July in Amsterdam, Netherlands.
 
 Comprised of three days of parallel panel sessions, round table discussions, and public keynote lectures, the
 conference aims to encourage interdisciplinary connections between comics scholars from various disciplines, comics
 artists, publishers, and cultural workers from cultural heritage sites. Hosted at the University of Amsterdam and
 several cultural institutions in the city, the conference aims to highlight the connections between the academic
-field of comics studies and the greater comics milieu. 
+field of comics studies and the greater comics milieu.
 
 
 ####**Keynote Speakers:**
@@ -41,13 +41,13 @@ Dr. Joyce Goggin, University of Amsterdam, Netherlands
 1. **Comics in Art, Art in Comics**
 
   The question of the place of comics within the system of the arts is an ongoing—and multifaceted—debate. As comics
-slowly enters academic and art discourse through the side doors of the university and the museum, the questions of 
-whether comics is part of “the culture industry” or if it is indeed the “ninth art” have given way to questions of 
-hierarchy within the form itself. These questions, which include delineations of “high” and “low,” genre 
-distinctions, and when and how to (re)present comics in exhibitions, however, often signal a return to the initial 
-problematic: does comics belong in the category of arts—and, if so, where? The conference invites papers that 
+slowly enters academic and art discourse through the side doors of the university and the museum, the questions of
+whether comics is part of “the culture industry” or if it is indeed the “ninth art” have given way to questions of
+hierarchy within the form itself. These questions, which include delineations of “high” and “low,” genre
+distinctions, and when and how to (re)present comics in exhibitions, however, often signal a return to the initial
+problematic: does comics belong in the category of arts—and, if so, where? The conference invites papers that
 investigate, for example: the art of comics; the medium and/or form of comics; “high” vs. “low” culture / mass market
-vs. art; comics in the museum; and art’s (ab)use of comics and vice versa. 
+vs. art; comics in the museum; and art’s (ab)use of comics and vice versa.
 
 2. **History and Trauma in Comics**
 
@@ -70,7 +70,7 @@ linguistic, legal and cultural boundaries that they encounter in this process. H
 concerning the cultural and national specificity of comics superfluous. The conference therefore invites papers that
 explore the possibilities of tensions of reading comics as a form of “world literature,” including, for example: the
 international reception of comics; manga (around the world); comics and (possibilities of) translation; and comics
-and/as literature.   
+and/as literature.
 
 
 ####**Application:**
@@ -79,7 +79,7 @@ Applicants to the conference are invited to submit a 250 word abstract, short bi
 stream preference by 17 April 2015 to the organizers, drs. Rik Spanjers and Dr. Erin La Cour, at info@amsterdamcomics.com.
 
 
-####**Amsterdam Comics would like to thank:** 
+####**Amsterdam Comics would like to thank:**
 
 The University of Amsterdam, VU University Amsterdam, the Amsterdam School for
 Cultural Analysis (ASCA), the Amsterdam School for Culture and History (ASCH), the Netherlands Research School for
