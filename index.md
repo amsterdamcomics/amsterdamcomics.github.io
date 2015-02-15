@@ -70,7 +70,8 @@ and/as literature.
 ####**Application:**
 
 Applicants to the conference are invited to submit a 250 word abstract, short biographical note, and indication of
-stream preference by 17 April 2015 to the organizers, drs. Rik Spanjers and Dr. Erin La Cour, at info@amsterdamcomics.com.
+theme preference by 17 April 2015 to the organizers, drs. Rik Spanjers and Dr. Erin La Cour, at
+info@amsterdamcomics.com.
 
 
 ####**Amsterdam Comics would like to thank:**
