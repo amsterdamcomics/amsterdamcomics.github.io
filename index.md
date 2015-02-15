@@ -18,21 +18,15 @@ published: true
 
 <img src="img/RembrandtOlijfje.png" alt="" style="width: 350px;"/>
 
-**Amsterdam Comics** is pleased to announce the call for papers for our inaugural international conference,
-**“Comics Interaction,”** which will take place from 1-3 July in Amsterdam, Netherlands.
+**Amsterdam Comics** is pleased to announce our inaugural international conference, **“Comics Interaction,”** which will take place from 1-3 July in Amsterdam, Netherlands.
 
-Comprised of three days of parallel panel sessions, round table discussions, and public keynote lectures, the
-conference aims to encourage interdisciplinary connections between comics scholars from various disciplines, comics
-artists, publishers, and cultural workers from cultural heritage sites. Hosted at the University of Amsterdam and
-several cultural institutions in the city, the conference aims to highlight the connections between the academic
-field of comics studies and the greater comics milieu.
+Comprised of three days of parallel panel sessions, round table discussions, and public keynote lectures, the conference aims to encourage interdisciplinary connections between comics scholars from various disciplines, comics artists, publishers, and cultural workers from museums and other heritage sites. The conference will focus on three themes of comics interaction: **Comics in Art, Art in Comics; History and Trauma in Comics; and Comics as World Literature.** The conference will be hosted at the University of Amsterdam and several local cultural institutions. 
 
 
 ####**Keynote Speakers:**
+
 Prof. Dr. Jan Baetens, University of Leuven, Belgium
-
 Prof. Dr. Bart Beaty, University of Calgary, Canada
-
 Dr. Joyce Goggin, University of Amsterdam, Netherlands
 
 
