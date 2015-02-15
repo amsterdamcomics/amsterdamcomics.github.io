@@ -18,9 +18,8 @@ published: true
 
 Comprised of three days of parallel panel sessions, round table discussions, and public keynote lectures, the conference aims to encourage interdisciplinary connections between comics scholars from various disciplines, comics artists, publishers, and cultural workers from museums and other heritage sites. The conference will focus on three themes of comics interaction: **Comics in Art, Art in Comics; History and Trauma in Comics; and Comics as World Literature.** The conference will be hosted at the University of Amsterdam and several local cultural institutions.
 
-<br>
 
-###**Keynote Speakers:**
+###**Keynote Speakers**
 
 Prof. Dr. Jan Baetens, University of Leuven, Belgium
 
