@@ -4,8 +4,6 @@ title: Amsterdam Comics Conference
 published: true
 ---
 
-<br>
-
 ## Amsterdam Comics Conference
 
 ## "Comics Interaction"
@@ -21,10 +19,8 @@ Comprised of three days of parallel panel sessions, round table discussions, and
 
 ###**Keynote Speakers**
 
-Prof. Dr. Jan Baetens, University of Leuven, Belgium
-
-Prof. Dr. Bart Beaty, University of Calgary, Canada
-
+Prof. Dr. Jan Baetens, University of Leuven, Belgium<br>
+Prof. Dr. Bart Beaty, University of Calgary, Canada<br>
 Dr. Joyce Goggin, University of Amsterdam, Netherlands
 
 <br>
@@ -55,3 +51,5 @@ info@amsterdamcomics.com.
 
 The University of Amsterdam, VU University Amsterdam, the Amsterdam School for
 Cultural Analysis (ASCA), the Amsterdam School for Culture and History (ASCH), the Netherlands Research School for Literary Studies (OSL), the Netherlands Institute for Cultural Analysis (NICA), the English Department of the University of Amsterdam, and the History, Trauma & Comics Research Circle for their generous support of the conference.
+
+<img src="img/logos_all.png" alt="" style="width: 42.5em;"/>
