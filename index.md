@@ -14,14 +14,12 @@ published: true
 
 ## "Comics Interaction"
 
-
 ### 1-3 July 2015
 
+<br>
 
 **Amsterdam Comics** is pleased to announce the call for papers for our inaugural international conference, 
 **“Comics Interaction,”** which will take place from 1-3 July in Amsterdam, Netherlands.
-
-<br>
 
 Comprised of three days of parallel panel sessions, round table discussions, and public keynote lectures, the
 conference aims to encourage interdisciplinary connections between comics scholars from various disciplines, comics
@@ -29,7 +27,6 @@ artists, publishers, and cultural workers from cultural heritage sites. Hosted a
 several cultural institutions in the city, the conference aims to highlight the connections between the academic
 field of comics studies and the greater comics milieu. 
 
-<br>
 
 ####**Keynote Speakers:**
 Prof. Dr. Jan Baetens, University of Leuven, Belgium
@@ -38,8 +35,6 @@ Prof. Dr. Bart Beaty, University of Calgary, Canada
 
 Dr. Joyce Goggin, University of Amsterdam, Netherlands
 
-<br>
-<br>
 
 ####**Three Themes:**
 
@@ -77,14 +72,12 @@ explore the possibilities of tensions of reading comics as a form of “world li
 international reception of comics; manga (around the world); comics and (possibilities of) translation; and comics
 and/as literature.   
 
-<br> 
 
 ####**Application:**
 
 Applicants to the conference are invited to submit a 250 word abstract, short biographical note, and indication of
 stream preference by 17 April 2015 to the organizers, drs. Rik Spanjers and Dr. Erin La Cour, at info@amsterdamcomics.com.
 
-<br>
 
 ####**Amsterdam Comics would like to thank:** 
 
