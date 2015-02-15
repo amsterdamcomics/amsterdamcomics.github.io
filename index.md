@@ -39,6 +39,9 @@ Dr. Joyce Goggin, University of Amsterdam, Netherlands
 <br>
 
 Themes:
+
+<br>
+
 1. Comics in Art, Art in Comics 
 The question of the place of comics within the system of the arts is an ongoing—and multifaceted—debate. As comics
 slowly enters academic and art discourse through the side doors of the university and the museum, the questions of 
