@@ -16,7 +16,7 @@ published: true
 
 ### 1-3 July 2015
 
-<br>
+<img src="img/RembrandtOlijfje.png" alt="" style="width: 350px;"/>
 
 **Amsterdam Comics** is pleased to announce the call for papers for our inaugural international conference,
 **“Comics Interaction,”** which will take place from 1-3 July in Amsterdam, Netherlands.
