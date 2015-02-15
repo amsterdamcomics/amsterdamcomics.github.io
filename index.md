@@ -26,7 +26,9 @@ Comprised of three days of parallel panel sessions, round table discussions, and
 ####**Keynote Speakers:**
 
 Prof. Dr. Jan Baetens, University of Leuven, Belgium
+
 Prof. Dr. Bart Beaty, University of Calgary, Canada
+
 Dr. Joyce Goggin, University of Amsterdam, Netherlands
 
 
