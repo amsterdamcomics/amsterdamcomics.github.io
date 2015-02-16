@@ -19,9 +19,9 @@ Comprised of three days of parallel panel sessions, round table discussions, and
 
 ###**Keynote Speakers**
 
-Prof. Dr. Jan Baetens, University of Leuven, Belgium<br>
-Prof. Dr. Bart Beaty, University of Calgary, Canada<br>
-Dr. Joyce Goggin, University of Amsterdam, Netherlands
+[Prof. Dr. Jan Baetens](http://www.kuleuven.be/wieiswie/en/person/00004749), University of Leuven, Belgium<br>
+[Prof. Dr. Bart Beaty](https://english.ucalgary.ca/profiles/bart-beaty), University of Calgary, Canada<br>
+[Dr. Joyce Goggin](http://www.uva.nl/over-de-uva/organisatie/medewerkers/content/g/o/j.goggin/j.goggin.html), University of Amsterdam, Netherlands
 
 <br>
 
@@ -49,7 +49,13 @@ info@amsterdamcomics.com.
 
 ###**Amsterdam Comics would like to thank**
 
-The University of Amsterdam, VU University Amsterdam, the Amsterdam School for
-Cultural Analysis (ASCA), the Amsterdam School for Culture and History (ASCH), the Netherlands Research School for Literary Studies (OSL), the Netherlands Institute for Cultural Analysis (NICA), the English Department of the University of Amsterdam, and the History, Trauma & Comics Research Circle for their generous support of the conference.
+[The University of Amsterdam](http://www.uva.nl/en/home), 
+[VU University Amsterdam](http://www.vu.nl/nl/index.asp), 
+the [Amsterdam School forCultural Analysis (ASCA)](http://asca.uva.nl), 
+the [Amsterdam School for Culture and History (ASCH)](http://asch.uva.nl), 
+the [Netherlands Research School for Literary Studies (OSL)](http://www.oslit.nl), 
+the [Netherlands Institute for Cultural Analysis (NICA)](http://www.nica-institute.com), 
+the [English Department of the University of Amsterdam](http://www.uva.nl/en/disciplines/english), 
+and the [History, Trauma & Comics Research Circle](https://historytraumacomics.wordpress.com/2014/07/23/sixth-meeting-to-seize-the-fright-panels-gaps-animal-headed-characters-in-trauma-related-graphic-novels/) for their generous support of the conference.
 
 <img src="img/logos_all.png" alt="" style="width: 42.5em;"/>
