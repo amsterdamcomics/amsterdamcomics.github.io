@@ -44,18 +44,21 @@ The concept of “world literature” no longer focuses on the worldwide circula
 
 Applicants to the conference are invited to submit a 250 word abstract, short biographical note, and indication of
 theme preference by 17 April 2015 to the organizers, drs. Rik Spanjers and Dr. Erin La Cour, at
-info@amsterdamcomics.com.
+<a href="mailto:info@amsterdamcomics.com">info@amsterdamcomics.com</a>.
+
+For a .pdf version of the call for papers, please click <a href="img/CFP-Comics.Interaction.2015.pdf">here.</a>
 
 
 ###**Amsterdam Comics would like to thank**
 
 [The University of Amsterdam](http://www.uva.nl/en/home), 
 [VU University Amsterdam](http://www.vu.nl/nl/index.asp), 
-the [Amsterdam School forCultural Analysis (ASCA)](http://asca.uva.nl), 
+the [Amsterdam School for Cultural Analysis (ASCA)](http://asca.uva.nl), 
 the [Amsterdam School for Culture and History (ASCH)](http://asch.uva.nl), 
 the [Netherlands Research School for Literary Studies (OSL)](http://www.oslit.nl), 
 the [Netherlands Institute for Cultural Analysis (NICA)](http://www.nica-institute.com), 
-the [English Department of the University of Amsterdam](http://www.uva.nl/en/disciplines/english), 
+the [Department of Literature and Society (VU)](http://en.literatuurensamenleving.nl),
+the [English Department (UvA)]((http://www.uva.nl/en/disciplines/english)) and the [Dutch Studies Department (UvA)](http://www.uva.nl/en/disciplines/dutch), 
 and the [History, Trauma & Comics Research Circle](https://historytraumacomics.wordpress.com/2014/07/23/sixth-meeting-to-seize-the-fright-panels-gaps-animal-headed-characters-in-trauma-related-graphic-novels/) for their generous support of the conference.
 
 <img src="img/logos_all.png" alt="" style="width: 42.5em;"/>

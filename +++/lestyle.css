@@ -4,6 +4,11 @@ body {
 	line-height: 1.5;
 }
 
+
+a:link {color: #AAAAAA; text-decoration: underline; }
+a:active {color: #AAAAff; text-decoration: underline; }
+a:visited {color: #AAAAAA; text-decoration: underline; }
+
 h2 {
 	text-align: center;
 }
