@@ -10,7 +10,7 @@ github_username:  gauthiier
 markdown: kramdown
 
 # Custom Variables
-#navigation: true
+navigation: true
 
 #prose
 prose:
