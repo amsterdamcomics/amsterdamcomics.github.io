@@ -22,6 +22,9 @@ Comprised of three days of parallel panel sessions, round table discussions, and
 [Prof. Dr. Jan Baetens](http://www.kuleuven.be/wieiswie/en/person/00004749), University of Leuven, Belgium  
 [Prof. Dr. Bart Beaty](https://english.ucalgary.ca/profiles/bart-beaty), University of Calgary, Canada  
 [Dr. Joyce Goggin](http://www.uva.nl/over-de-uva/organisatie/medewerkers/content/g/o/j.goggin/j.goggin.html), University of Amsterdam, Netherlands  
+
+###**Round Table Panelists**
+
 [Dr. Pascal Lefèvre](http://www.luca-arts.be/campus/sint-lukas-brussel), LUCA School of Arts, campus Sint-Lukas Brussel, Belgium  
 [Dr. Anik Fournier](http://www.artez.nl/fineart-english/Fine-Art-Arnhem), ArtEz, Arnhem, Netherlands  
 [Prof. Dr. Christa Maria Lerm-Hayes](http://www.uva.nl/over-de-uva/organisatie/medewerkers/content/l/e/c.m.k.e.lerm-hayes/c.m.k.e.lerm-hayes.html), University of Amsterdam, Netherlands  

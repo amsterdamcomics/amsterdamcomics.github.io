@@ -21,6 +21,10 @@ h3 {
 	width: 45em;
 }
 
+nav {
+	font-size: 1.1em;
+}
+
 content {
     padding: 1.5em;
     max-width: 60em;
