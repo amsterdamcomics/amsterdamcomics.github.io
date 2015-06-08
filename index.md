@@ -23,14 +23,29 @@ Comprised of three days of parallel panel sessions, round table discussions, and
 [Prof. Dr. Bart Beaty](https://english.ucalgary.ca/profiles/bart-beaty), University of Calgary, Canada  
 [Dr. Joyce Goggin](http://www.uva.nl/over-de-uva/organisatie/medewerkers/content/g/o/j.goggin/j.goggin.html), University of Amsterdam, Netherlands  
 
+###**Special Guest Presentations**
+
+Stein Schenk and [Eva Hilhorst](http://evahilhorst.blogspot.nl), “Comics Journalism”  
+[Jitse Verwer](http://www.abc.nl), “Comics at the American Book Center”  
+[Typex](http://typex.nl), “Comics vs. Culture”
+
+
 ###**Round Table Panelists**
 
 [Dr. Pascal Lefèvre](http://www.luca-arts.be/campus/sint-lukas-brussel), LUCA School of Arts, campus Sint-Lukas Brussel, Belgium  
+Lies Schippers, co-author _The Search_,  [Anne Frank Foundation](http://www.annefrank.org/en/)  
+[Joost Pollmann](http://joostpollmann.nl), Director of Comedium  
+Daan van Dartel, Curator of Popular Culture, [Tropenmuseum](http://tropenmuseum.nl)  
 [Dr. Anik Fournier](http://www.artez.nl/fineart-english/Fine-Art-Arnhem), ArtEz, Arnhem, Netherlands  
 [Prof. Dr. Christa Maria Lerm-Hayes](http://www.uva.nl/over-de-uva/organisatie/medewerkers/content/l/e/c.m.k.e.lerm-hayes/c.m.k.e.lerm-hayes.html), University of Amsterdam, Netherlands  
 [Dr. Joost de Bloois](http://www.uva.nl/over-de-uva/organisatie/medewerkers/content/b/l/j.g.c.debloois/j.g.c.de-bloois.html), University of Amsterdam, Netherlands  
 [Dr. Stephan Besser](http://www.uva.nl/over-de-uva/organisatie/medewerkers/content/b/e/s.besser/s.besser.html), University of Amsterdam, Netherlands  
 [Dr. Ernst van den Hemel](http://www.uu.nl/medewerkers/EvandenHemel/0), Utrecht University, Netherlands  
+[Daan Hassler-Forest](http://www.uva.nl/over-de-uva/organisatie/medewerkers/content/h/a/d.a.hassler-forest/d.a.hassler-forest.html), University of Amsterdam, Netherlands  
+[Eric Heuvel](http://www.eric-heuvel.nl), Comics Artist  
+[Marcel Ruijters](http://troglo.home.xs4all.nl), Comics Artist  
+[Joost Swarte](http://www.joostswarte.com), Comics Artist  
+
 
 ###**Three Themes**
 
@@ -53,7 +68,7 @@ Applicants to the conference are invited to submit a 250 word abstract, short bi
 theme preference by 17 April 2015 to the organizers, drs. Rik Spanjers and Dr. Erin La Cour, at
 <a href="mailto:info@amsterdamcomics.com">info@amsterdamcomics.com</a>.
 
-For a .pdf version of the call for papers, please click <a href="img/CFP-Comics.Interaction.2015.pdf">here.</a>
+For a .pdf version of the call for papers, please find it <a href="img/CFP-Comics.Interaction.2015.pdf">here.</a>
 
 
 ###**Amsterdam Comics would like to thank**
@@ -66,6 +81,9 @@ the [Netherlands Research School for Literary Studies (OSL)](http://www.oslit.nl
 the [Netherlands Institute for Cultural Analysis (NICA)](http://www.nica-institute.com), 
 the [Department of Literature and Society (VU)](http://en.literatuurensamenleving.nl),
 the [English Department (UvA)]((http://www.uva.nl/en/disciplines/english)) and the [Dutch Studies Department (UvA)](http://www.uva.nl/en/disciplines/dutch), 
-and the [History, Trauma & Comics Research Circle](https://historytraumacomics.wordpress.com/2014/07/23/sixth-meeting-to-seize-the-fright-panels-gaps-animal-headed-characters-in-trauma-related-graphic-novels/) for their generous support of the conference.
+[History, Trauma & Comics Research Circle](https://historytraumacomics.wordpress.com/2014/07/23/sixth-meeting-to-seize-the-fright-panels-gaps-animal-headed-characters-in-trauma-related-graphic-novels/),
+[Lambiek](https://www.lambiek.net), and the 
+[Netherlands Institute for War, Holocaust and Genocide Studies](http://niod.nl/en)
+for their generous support of the conference.
 
 <img src="img/logos_all.png" alt="" style="width: 42.5em;"/>

@@ -22,7 +22,7 @@ h3 {
 }
 
 nav {
-	font-size: 1.1em;
+	font-size: 0.95em;
 }
 
 content {
@@ -39,6 +39,12 @@ content img {
 	text-align: center;
 	display: block;
 	margin: 0 auto;
+}
+
+pre {
+	font-family: questrial, sans-serif;
+	font-size:0.95em;
+	line-height: 1.5;	
 }
 
 .section {
