@@ -3,8 +3,8 @@ title: Amsterdam Comics
 email: info@amsterdamcomics.com
 description: Amsterdam Comics is an international network of comics scholars.
 baseurl: ""
-uuurl: "http://amsterdamcomics.com" # the base hostname & protocol for your site
-url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
+url: "http://amsterdamcomics.com" # the base hostname & protocol for your site
+oourl: "http://127.0.0.1:4000" # the base hostname & protocol for your site
 github_username:  gauthiier
 
 # Build settings
