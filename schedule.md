@@ -9,19 +9,21 @@ tags: navigation
 
 ## "Comics Interaction"
 
-## Schedule
+## Conference Schedule
+
+* All conference events will take place at the [Oudemanhuispoort (OMHP)](http://www.uva.nl/over-de-uva/de-uva-in-amsterdam/locaties/content/binnenstad/oudemanhuispoort.html) of the University of Amsterdam, unless otherwise indicated.
 
 ###__Wednesday, 1 July 2015__
   	
 10:00-10:30: Conference Registration & Coffee
 
-10:30-10:45: Welcome by Dr. Erin La Cour & drs. Rik Spanjers 
+10:30-10:45: Welcome by Dr. Erin La Cour & drs. Rik Spanjers [OMHP F2.01C](http://www.uva.nl/over-de-uva/de-uva-in-amsterdam/locaties/content/binnenstad/oudemanhuispoort.html)
 
 10:45-12:00: Public Keynote Lecture by Dr. Joyce Goggin, University of Amsterdam, NL, [OMHP F2.01C](http://www.uva.nl/over-de-uva/de-uva-in-amsterdam/locaties/content/binnenstad/oudemanhuispoort.html)
 
 12:00-13:00: Lunch
 
-13:00-15:30: Parallel Panel Session 1
+13:00-15:30: [Parallel Panel Session 1](/sessions)
 
 15:30-16:00: Break & Travel Time
 
@@ -49,7 +51,7 @@ tags: navigation
 
 12:00-13:00: Lunch
 
-13:00-15:30: Parallel Panel Session 2 
+13:00-15:30: [Parallel Panel Session 2](/sessions)
 
 15:30-16:30: Comics in the Netherlands, [OMHP F2.01C](http://www.uva.nl/over-de-uva/de-uva-in-amsterdam/locaties/content/binnenstad/oudemanhuispoort.html)
 
@@ -85,7 +87,7 @@ tags: navigation
 
 12:30-13:30: Lunch
 
-13:30-16:00: Parallel Panel Session 3
+13:30-16:00: [Parallel Panel Session 3](/sessions)
 
 16:00-16:15: Break
 
