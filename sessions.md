@@ -70,6 +70,7 @@ __1C. World Literature: Translation, Travel, and Silence__
 	Julian Lawrence 
 		“All the World’s a (Silent) Stage: Wordless Comics as World Literature”
 	Stephen Clark
+		"Notes from the Border: An Exploration of the Cartoonist's Interpersonal Communication"
 	Ahmad Salem
 		“Comics in Alexandria, Egypt”
 </pre>
