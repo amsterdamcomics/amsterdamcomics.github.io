@@ -25,10 +25,8 @@ __1A. Comics in Art, Art in Comics: Comics, Pulp, and Postmodernism__
 	Chair:
 
 	Panelists:
-	Thomas Langedijk
-		“Why Comics can't be Art”
-	Saša Miletić
-		“<i>Dylan Dog</i>: Pulp Versus Art”
+	Eszter Szép
+		“Color and Transgression in Comics"
 	Nachiket Joshi
 		“Fantasy in Phillipe Druillet’s <i>La Nuit</i>"
 	<a href="http://www.juliacks.com">Juliacks</a>
@@ -67,7 +65,7 @@ __1C. World Literature: Translation, Travel, and Silence__
 	Panelists:
 	Ian Horton
 		“Donald Duck Goes Dutch”
-	Julian Lawrence 
+	<a href="http://www.julianlawrence.net/">Julian Lawrence</a>
 		“All the World’s a (Silent) Stage: Wordless Comics as World Literature”
 	Stephen Clark
 		"Notes from the Border: An Exploration of the Cartoonist's Interpersonal Communication"
@@ -95,9 +93,9 @@ __2A. Comics in Art, Art in Comics: Hierarchies in Art and Comics__
 	Barbara Uhlig
 		“The Art of Comics: References to 20th Century Art and Their Narrative Significance in
 		Lorenzo Mattotti’s Comics”
-	Eszter Szép
-		“Color and Transgression in Comics"
-	Simon Grennan
+	Thomas Langedijk
+		“Why Comics can't be Art”		
+	<a href="www.simongrennan.com">Simon Grennan</a>
 		“Misrecognising Misrecognition: The Capacity to Influence in the Milieux of Comics and Fine Art”
 </pre>
 
@@ -108,6 +106,7 @@ __2B. History and Trauma: Self-Reflexivity & Return__
 	OMHP C1.17
 
 	Chair:
+	Pedro Moura
 
 	Panelists:
 	Marc Tuters and <a href="http://gauthiier.info">David Gauthier</a>
@@ -127,6 +126,7 @@ __2C. World Literature: The Worlds of Comics__
 	OMHP C3.17
 
 	Chair:
+	Ian Horton
 
 	Panelists:
 	Jose Antonio Vilca
@@ -175,7 +175,7 @@ __3B. History and Trauma: Body Politics__
 	Panelists:
 	Jonathan Gill
 		“’This Women’s Lib Stuff’: Samuel R. Delany and Wonder Woman”
-	Candida Rifkind
+	<a href="http://www.projectgraphicbio.com">Candida Rifkind</a>
 		“Jordan and the Giant: Graphic Biographies of Sports, Spectacle, and Trauma”
 	Elettra Stamboulis
 		“Drawing reality, assuming a point of view: A visual militant practice”

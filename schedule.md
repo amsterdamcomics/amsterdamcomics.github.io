@@ -57,7 +57,7 @@ tags: navigation
 
 <pre>
 		Speakers:
-		Stein Schenk & Eva Hilhorst, “Comics Journalism"
+		Stein Schenk & Eva Hilhorst, “Graphic Journalism: News beyond Words”
 		Jitse Verwer, “Comics in the American Book Center”
 		Typex, “Comics vs. Culture”
 </pre>
@@ -100,7 +100,6 @@ tags: navigation
 		Participants: 
 		Joost Swarte, Comics Artist
 		Marcel Ruijters, Comics Artist
-		Daan van Dartel, Curator of Popular Culture, Tropenmuseum
 		Dr. Anik Fournier, ArtEz
 </pre>
 
