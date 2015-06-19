@@ -35,7 +35,7 @@ Comprised of three days of parallel panel sessions, round table discussions, and
 [Dr. Pascal Lefèvre](http://www.luca-arts.be/campus/sint-lukas-brussel), LUCA School of Arts, campus Sint-Lukas Brussel, Belgium  
 Lies Schippers, co-author _The Search_,  [Anne Frank Foundation](http://www.annefrank.org/en/)  
 [Joost Pollmann](http://joostpollmann.nl), Director of Comedium  
-[Dr. Anik Fournier](http://www.artez.nl/fineart-english/Fine-Art-Arnhem), ArtEz, Arnhem, Netherlands  
+[Dr. Anik Fournier]( http://dutchartinstitute.eu/page/3395/anik-fournier), ArtEz, Arnhem, Netherlands  
 [Prof. Dr. Christa Maria Lerm-Hayes](http://www.uva.nl/over-de-uva/organisatie/medewerkers/content/l/e/c.m.k.e.lerm-hayes/c.m.k.e.lerm-hayes.html), University of Amsterdam, Netherlands  
 [Dr. Joost de Bloois](http://www.uva.nl/over-de-uva/organisatie/medewerkers/content/b/l/j.g.c.debloois/j.g.c.de-bloois.html), University of Amsterdam, Netherlands  
 [Dr. Stephan Besser](http://www.uva.nl/over-de-uva/organisatie/medewerkers/content/b/e/s.besser/s.besser.html), University of Amsterdam, Netherlands  
