@@ -91,7 +91,7 @@ tags: navigation
 
 16:00-16:15: Break
 
-16:15-18:15: Public Round Table: Comics & Cultural Capital, [OMHP C 2.17](http://www.uva.nl/over-de-uva/de-uva-in-amsterdam/locaties/content/binnenstad/oudemanhuispoort.html)
+16:15-17:45: Public Round Table: Comics & Cultural Capital, [OMHP C 2.17](http://www.uva.nl/over-de-uva/de-uva-in-amsterdam/locaties/content/binnenstad/oudemanhuispoort.html)
 
 <pre>
 		Chair: 
@@ -103,4 +103,4 @@ tags: navigation
 		Dr. Anik Fournier, ArtEz
 </pre>
 
-18:15 		Closing & Borrel
+18:00 		Closing & Borrel
