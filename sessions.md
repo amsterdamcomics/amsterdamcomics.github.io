@@ -16,7 +16,7 @@ tags: navigation
 
 ####<u><b>Parallel Panel Session 1 / 13:30-16:00</b></u>
   	
-__1A. Comics in Art, Art in Comics: Comics, Pulp, and Postmodernism__
+__1A. Comics in Art, Art in Comics: Medium, Mediality, and Color__
 
 <pre>
 	Location:
