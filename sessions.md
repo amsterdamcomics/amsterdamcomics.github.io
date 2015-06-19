@@ -180,8 +180,8 @@ __3B. History and Trauma: Body Politics__
 	Elettra Stamboulis
 		“Drawing reality, assuming a point of view: A visual militant practice”
 	Roel van den Oever & Max van Kreij
-		“Holy Camp, Batman! Deconstructing the Opposition between Seriousness and Silliness in the Batman
-		Universe"
+		“Holy Camp, Batman! Deconstructing the Opposition between Seriousness and Silliness
+		in the Batman Universe"
 
 </pre>
 
