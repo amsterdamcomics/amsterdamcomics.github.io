@@ -25,7 +25,7 @@ Comprised of three days of parallel panel sessions, round table discussions, and
 
 ###**Special Guest Presentations**
 
-[Stijn Schenk](http://www.drawingthetimes.com) and [Eva Hilhorst](http://evahilhorst.blogspot.nl), “Comics Journalism”  
+Mara Joustra and [Eva Hilhorst](http://evahilhorst.blogspot.nl), “Comics Journalism”  
 [Jitse Verwer](http://www.abc.nl), “Comics at the American Book Center”  
 [Typex](http://typex.nl), “Comics vs. Culture”
 
