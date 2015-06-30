@@ -11,18 +11,18 @@ tags: navigation
 
 ## Panel Sessions
 
-###__Wednesday 1 July 2015__
+<a name="s1"></a>
 
+###__Wednesday 1 July 2015__
 
 ####<u><b>Parallel Panel Session 1 / 13:30-16:00</b></u>
   	
 __1A. Comics in Art, Art in Comics: Medium, Mediality, and Color__
 
 <pre>
-	Location:
-	OMHP C1.23
+	Location: <a href="/locations">OMHP C1.23</a>
 
-	Chair:
+	Chair: Erin La Cour
 
 	Panelists:
 	Eszter Szép
@@ -36,11 +36,9 @@ __1A. Comics in Art, Art in Comics: Medium, Mediality, and Color__
 __1B. History and Trauma: Representing Trauma__
 
 <pre>
-	Location:
-	OMHP E2.01
+	Location: <a href="/locations">OMHP E2.01</a>
 
-	Chair:
-	Marc Tuters
+	Chair: Marc Tuters
 
 	Panelists:
 	Ger Apeldoorn
@@ -57,10 +55,9 @@ __1B. History and Trauma: Representing Trauma__
 __1C. World Literature: Translation, Travel, and Silence__
 
 <pre>
-	Location:
-	OMHP A2.01
+	Location: <a href="/locations">OMHP A2.01</a>
 
-	Chair:
+	Chair: Astrid Surmatz
 
 	Panelists:
 	Ian Horton
@@ -68,12 +65,14 @@ __1C. World Literature: Translation, Travel, and Silence__
 	<a href="http://www.julianlawrence.net/">Julian Lawrence</a>
 		“All the World’s a (Silent) Stage: Wordless Comics as World Literature”
 	Stephen Clark
-		"Notes from the Border: An Exploration of the Cartoonist's Interpersonal Communication"
-	Ahmad Salem
-		“Comics in Alexandria, Egypt”
+		“Notes from the Border: An Exploration of the Cartoonist's Interpersonal Communication”
+	Margot van der Heide
+		“Tracing a Pictorial Discourse in Cartoons: Gender from a Transnational Perspective”
 </pre>
  
 <br>
+
+<a name="s2"></a>
 
 ###__Thursday, 2 July 2015__
 
@@ -82,10 +81,9 @@ __1C. World Literature: Translation, Travel, and Silence__
 __2A. Comics in Art, Art in Comics: Hierarchies in Art and Comics__
 
 <pre>
-	Location:
-	OMHP C3.23
+	Location: <a href="/locations">OMHP C3.23</a>
 
-	Chair:
+	Chair: Eszter Szép
 
 	Panelists:
 	Rusty Witek
@@ -102,11 +100,9 @@ __2A. Comics in Art, Art in Comics: Hierarchies in Art and Comics__
 __2B. History and Trauma: Self-Reflexivity & Return__
 
 <pre>
-	Location:
-	OMHP C1.17
+	Location: <a href="/locations">OMHP C1.17</a>
 
-	Chair:
-	Pedro Moura
+	Chair: Pedro Moura
 
 	Panelists:
 	Marc Tuters and <a href="http://gauthiier.info">David Gauthier</a>
@@ -122,11 +118,9 @@ __2B. History and Trauma: Self-Reflexivity & Return__
 __2C. World Literature: The Worlds of Comics__
 
 <pre>
-	Location:
-	OMHP C3.17
+	Location: <a href="/locations">OMHP C3.17</a>
 
-	Chair:
-	Ian Horton
+	Chair: Ian Horton
 
 	Panelists:
 	Jose Antonio Vilca
@@ -141,6 +135,8 @@ __2C. World Literature: The Worlds of Comics__
  
 <br>
 
+<a name="s3"></a>
+
 ###__Friday, 3 July 2015__
 
 <u><b>Parallel Panel Session 3 / 13:15-15:45</b></u>
@@ -148,10 +144,9 @@ __2C. World Literature: The Worlds of Comics__
 __3A. Comics in Art, Art in Comics: Comics Aesthetics__
 
 <pre>
-	Location:
-	OMHP C1.23
+	Location: <a href="/locations">OMHP C1.23</a>
 
-	Chair:
+	Chair: Rik Spanjers
 
 	Panelists:
 	Jean-Paul Gabilliet
@@ -167,10 +162,9 @@ __3A. Comics in Art, Art in Comics: Comics Aesthetics__
 __3B. History and Trauma: Body Politics__
 
 <pre>
-	Location:
-	OMHP C1.17
+	Location: <a href="/locations">OMHP C1.17</a>
 
-	Chair:
+	Chair: Laurike in 't Veld
 	
 	Panelists:
 	Jonathan Gill
@@ -188,10 +182,9 @@ __3B. History and Trauma: Body Politics__
 __3C. World Literature: Digital Worlds__
 
 <pre>
-	Location:
-	OMHP C3.17
+	Location: <a href="/locations">OMHP C3.17</a>
 
-	Chair:
+	Chair: Bram de Keijzer
 
 	Panelists:
 	Astrid Surmatz

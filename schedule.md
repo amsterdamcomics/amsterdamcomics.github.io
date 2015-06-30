@@ -11,23 +11,23 @@ tags: navigation
 
 ## Conference Schedule
 
-* All conference events will take place at the [Oudemanhuispoort (OMHP)](http://www.uva.nl/over-de-uva/de-uva-in-amsterdam/locaties/content/binnenstad/oudemanhuispoort.html) of the University of Amsterdam, unless otherwise indicated.
+* All conference events will take place at the [Oudemanhuispoort (OMHP)](/locations) of the University of Amsterdam, unless otherwise indicated.
 
 ###__Wednesday, 1 July 2015__
   	
-10:00-10:30: Conference Registration & Coffee
+10:00-10:30: Conference Registration & Coffee, foyer of the Oudemanhuispoort
 
-10:30-10:45: Welcome by Dr. Erin La Cour & drs. Rik Spanjers [OMHP F2.01C](http://www.uva.nl/over-de-uva/de-uva-in-amsterdam/locaties/content/binnenstad/oudemanhuispoort.html)
+10:30-10:45: Welcome by Dr. Erin La Cour & drs. Rik Spanjers [OMHP F2.01C](/locations)
 
-10:45-12:00: Public Keynote Lecture by Dr. Joyce Goggin, University of Amsterdam, NL, [OMHP F2.01C](http://www.uva.nl/over-de-uva/de-uva-in-amsterdam/locaties/content/binnenstad/oudemanhuispoort.html)
+10:45-12:00: Public Keynote Lecture by Dr. Joyce Goggin, University of Amsterdam, NL, [OMHP F2.01C](/locations)
 
-12:00-13:00: Lunch
+12:00-13:00: Lunch at Atrium Café
 
-13:00-15:30: [Parallel Panel Session 1](/sessions)
+13:00-15:30: [Parallel Panel Session 1](/sessions/#s1)
 
 15:30-16:00: Break & Travel Time
 
-16:00-17:30: Public Round Table: Comics and History Education at [NIOD](http://www.niod.nl/en/hours-directions)
+16:00-17:30: Public Round Table: Comics and History Education at [NIOD](/locations)
 
 <pre>
 		Chair: 
@@ -39,21 +39,21 @@ tags: navigation
 		Dr. Pascal Lefèvre, LUCA Campus Sint-Lukas, Brussels  
 </pre>
 
-18:00-20:00: Welcome Borrel at [Lambiek](https://www.lambiek.net)
+18:00-20:00: Welcome Borrel at [Lambiek](/locations)
  
 
 
 ###__Thursday, 2 July 2015__
 
-10:00-10:30: Coffee
+10:00-10:30: Coffee, foyer of the Oudemanhuispoort
 
-10:30-12:00: Public Keynote Lecture by Prof. Dr. Bart Beaty, University of Calgary, CA, [OMHP F2.01C](http://www.uva.nl/over-de-uva/de-uva-in-amsterdam/locaties/content/binnenstad/oudemanhuispoort.html)
+10:30-12:00: Public Keynote Lecture by Prof. Dr. Bart Beaty, University of Calgary, CA, [OMHP F2.01C](/locations)
 
-12:00-13:00: Lunch
+12:00-13:00: Lunch at Atrium Café
 
-13:00-15:30: [Parallel Panel Session 2](/sessions)
+13:00-15:30: [Parallel Panel Session 2](/sessions/#s2)
 
-15:30-16:30: Comics in the Netherlands, [OMHP F2.01C](http://www.uva.nl/over-de-uva/de-uva-in-amsterdam/locaties/content/binnenstad/oudemanhuispoort.html)
+15:30-16:30: Comics in the Netherlands, [OMHP F2.01C](/locations)
 
 <pre>
 		Speakers:
@@ -64,7 +64,7 @@ tags: navigation
 
 16:30-17:00: Break
 
-17:00-18:30: Public Round Table: The Political Agency of Comics, [OMHP F2.01C](http://www.uva.nl/over-de-uva/de-uva-in-amsterdam/locaties/content/binnenstad/oudemanhuispoort.html)
+17:00-18:30: Public Round Table: The Political Agency of Comics, [OMHP F2.01C](/locations)
 
 <pre>
 		Chair: 
@@ -76,22 +76,22 @@ tags: navigation
 		Joost Pollmann, Director of Comedium      
 </pre>
 
-19:30: Keynote Dinner
+19:30: Keynote Dinner, by invitation
  
 
 ###__Friday, 3 July 2015__
 
-10:30-11:00: Coffee
+10:30-11:00: Coffee, foyer of the Oudemanhuispoort
 
-11:00-12:30: Public Keynote Lecture by Prof. Dr. Jan Baetens, University of Leuven, BE, [OMHP F2.01C](http://www.uva.nl/over-de-uva/de-uva-in-amsterdam/locaties/content/binnenstad/oudemanhuispoort.html)
+11:00-12:30: Public Keynote Lecture by Prof. Dr. Jan Baetens, University of Leuven, BE, [OMHP F2.01C](/locations)
 
-12:30-13:30: Lunch
+12:30-13:30: Lunch at Atrium Café
 
-13:30-16:00: [Parallel Panel Session 3](/sessions)
+13:30-16:00: [Parallel Panel Session 3](/sessions/#s3)
 
 16:00-16:15: Break
 
-16:15-17:45: Public Round Table: Comics & Cultural Capital, [OMHP C 2.17](http://www.uva.nl/over-de-uva/de-uva-in-amsterdam/locaties/content/binnenstad/oudemanhuispoort.html)
+16:15-17:45: Public Round Table: Comics & Cultural Capital, [OMHP C 2.17](/locations)
 
 <pre>
 		Chair: 
@@ -103,4 +103,4 @@ tags: navigation
 		Dr. Anik Fournier, ArtEz
 </pre>
 
-18:00 		Closing & Borrel
+18:00 		Closing & Borrel at Atrium Café
