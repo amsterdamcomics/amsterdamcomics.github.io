@@ -15,13 +15,13 @@ tags: navigation
 
 ###__Wednesday, 1 July 2015__
   	
-10:00-10:30: Conference Registration & Coffee, foyer of the Oudemanhuispoort
+10:00-10:30: Conference Registration & Coffee at the [Oudemanhuispoort](/locations)
 
 10:30-10:45: Welcome by Dr. Erin La Cour & drs. Rik Spanjers [OMHP F2.01C](/locations)
 
 10:45-12:00: Public Keynote Lecture by Dr. Joyce Goggin, University of Amsterdam, NL, [OMHP F2.01C](/locations)
 
-12:00-13:00: Lunch at Atrium Café
+12:00-13:00: Lunch at [Atrium Café](/locations)
 
 13:00-15:30: [Parallel Panel Session 1](/sessions/#s1)
 
@@ -45,11 +45,11 @@ tags: navigation
 
 ###__Thursday, 2 July 2015__
 
-10:00-10:30: Coffee, foyer of the Oudemanhuispoort
+10:00-10:30: Coffee at the [Oudemanhuispoort](/locations)
 
 10:30-12:00: Public Keynote Lecture by Prof. Dr. Bart Beaty, University of Calgary, CA, [OMHP F2.01C](/locations)
 
-12:00-13:00: Lunch at Atrium Café
+12:00-13:00: Lunch at [Atrium Café](/locations)
 
 13:00-15:30: [Parallel Panel Session 2](/sessions/#s2)
 
@@ -81,11 +81,11 @@ tags: navigation
 
 ###__Friday, 3 July 2015__
 
-10:30-11:00: Coffee, foyer of the Oudemanhuispoort
+10:30-11:00: Coffee at the [Oudemanhuispoort](/locations)
 
 11:00-12:30: Public Keynote Lecture by Prof. Dr. Jan Baetens, University of Leuven, BE, [OMHP F2.01C](/locations)
 
-12:30-13:30: Lunch at Atrium Café
+12:30-13:30: Lunch at [Atrium Café](/locations)
 
 13:30-16:00: [Parallel Panel Session 3](/sessions/#s3)
 
@@ -103,4 +103,4 @@ tags: navigation
 		Dr. Anik Fournier, ArtEz
 </pre>
 
-18:00 		Closing & Borrel at Atrium Café
+18:00 		Closing & Borrel at [Atrium Café](/locations)
