@@ -53,7 +53,7 @@ tags: navigation
 
 13:00-15:30: [Parallel Panel Session 2](/sessions/#s2)
 
-15:30-16:30: Comics in the Netherlands, [OMHP F2.01C](/locations)
+15:30-16:30: Comics in the Netherlands, [OMHP F0.02](/locations)
 
 <pre>
 		Speakers:
@@ -64,7 +64,7 @@ tags: navigation
 
 16:30-17:00: Break
 
-17:00-18:30: Public Round Table: The Political Agency of Comics, [OMHP F2.01C](/locations)
+17:00-18:30: Public Round Table: The Political Agency of Comics, [OMHP F0.02](/locations)
 
 <pre>
 		Chair: 
@@ -83,7 +83,7 @@ tags: navigation
 
 10:30-11:00: Coffee at the [Oudemanhuispoort](/locations)
 
-11:00-12:30: Public Keynote Lecture by Prof. Dr. Jan Baetens, University of Leuven, BE, [OMHP F2.01C](/locations)
+11:00-12:30: Public Keynote Lecture by Prof. Dr. Jan Baetens, University of Leuven, BE, [OMHP C0.17](/locations)
 
 12:30-13:30: Lunch at [Atrium Café](/locations)
 
@@ -91,7 +91,7 @@ tags: navigation
 
 16:00-16:15: Break
 
-16:15-17:45: Public Round Table: Comics & Cultural Capital, [OMHP C 2.17](/locations)
+16:15-17:45: Public Round Table: Comics & Cultural Capital, [OMHP F0.02](/locations)
 
 <pre>
 		Chair: 
@@ -101,6 +101,7 @@ tags: navigation
 		Joost Swarte, Comics Artist
 		Marcel Ruijters, Comics Artist
 		Dr. Anik Fournier, ArtEz
+		Daniel Neugebauer, Van Abbemuseum
 </pre>
 
 18:00 		Closing & Borrel at [Atrium Café](/locations)
