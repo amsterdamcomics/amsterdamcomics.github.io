@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Conference Location
-permalink: /locations/
+permalink: comics-interaction/locations/
 tags: navigation
 ---
 

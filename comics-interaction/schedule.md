@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Conference Schedule
-permalink: /schedule/
+permalink: comics-interaction/schedule/
 tags: navigation
 ---
 
