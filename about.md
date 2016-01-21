@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About Amsterdam Comics
-permalink: /about
+permalink: /about/
 published: true
 ---
 
