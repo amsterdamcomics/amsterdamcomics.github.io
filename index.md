@@ -22,6 +22,10 @@ Meeting #1: 
 
 On Thursday, 10 December, we will meet from 17.00-19.00 in the P. C. Hoofthuis of the University of Amsterdam (room to be determined). We will discuss Thierry Groensteen’s influential The System of Comics (2007 English translation). Rik Spanjers will offer introductory remarks, we will discuss the work, and also discuss our next meeting time and reading material. 
 
+Meeting #2:
+
+On Tuesday, 2 February, we will meet from 18.00-20.00 in the P. C. Hoofthuis of the University of Amsterdam (room to be determined). We will discuss Charles Hatfield's Alternative Comics (2005). Erin La Cour and Rik Spanjers will offer introductory remarks before we discuss the work as a group.
+
 Join us:
 
 If you would like to be a part of the reading group, please email us at <a href="mailto:info@amsterdamcomics.com">info@amsterdamcomics.com</a>. Also, please feel free to share this invitation with others who you think would be interested.
