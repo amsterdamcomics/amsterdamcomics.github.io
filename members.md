@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Amsterdam Comics Members
-permalink: members
+permalink: /members
 published: true
 ---
 

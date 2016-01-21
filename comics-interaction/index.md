@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Amsterdam Comics Conference
-permalink: /comics-interaction/
+permalink: /comics-interaction
 published: true
 ---
 
