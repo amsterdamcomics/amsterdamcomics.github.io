@@ -1,1 +1,1 @@
-Amsterdam Comics Conference's site source -- amsterdamcomics.com
+Amsterdam Comics's site source -- amsterdamcomics.com

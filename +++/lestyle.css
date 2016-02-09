@@ -25,6 +25,10 @@ nav {
 	font-size: 0.95em;
 }
 
+nav a {
+	text-decoration:none
+}
+
 content {
     padding: 1.5em;
     max-width: 60em;
