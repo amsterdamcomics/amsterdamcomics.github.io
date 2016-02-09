@@ -23,7 +23,6 @@ h3 {
 
 nav {
 	font-size: 0.95em;
-	text-decoration: none;
 }
 
 content {
@@ -51,6 +50,10 @@ pre {
 .section {
 	float: left;
 	display: block;
+}
+
+.section nav a {
+	text-decoration: none;
 }
 
 .logo {
