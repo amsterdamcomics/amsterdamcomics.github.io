@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-###What is Amsterdam Comics?
+### What is Amsterdam Comics?
 
 
 Amsterdam Comics aims to further the interaction between the academic study of comics and its practice.

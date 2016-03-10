@@ -5,7 +5,7 @@ permalink: /members/
 published: true
 ---
 
-###Members 
+### Members 
 
 
 **Erin La Cour, co-founder**
