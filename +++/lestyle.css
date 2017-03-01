@@ -41,6 +41,13 @@ content img {
 	margin: 0 auto;
 }
 
+footer {
+	text-align: center;
+	width: 45em;
+	padding: 1em;
+}
+
+
 pre {
 	font-family: questrial, sans-serif;
 	font-size:0.95em;
