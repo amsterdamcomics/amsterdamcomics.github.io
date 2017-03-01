@@ -18,20 +18,20 @@ published: true
 Comprised of three days of parallel panel sessions, round table discussions, and public keynote lectures, the conference aims to encourage interdisciplinary connections between comics scholars from various disciplines, comics artists, publishers, and cultural workers from museums and other heritage sites. The conference will focus on three themes of comics interaction: **Comics in Art, Art in Comics**; **History and Trauma in Comics**; and **Comics as World Literature.** The conference will be hosted at the University of Amsterdam and several local cultural institutions.
 
 
-###**Keynote Speakers**
+### **Keynote Speakers**
 
 [Prof. Dr. Jan Baetens](http://www.kuleuven.be/wieiswie/en/person/00004749), University of Leuven, Belgium  
 [Prof. Dr. Bart Beaty](https://english.ucalgary.ca/profiles/bart-beaty), University of Calgary, Canada  
 [Dr. Joyce Goggin](http://www.uva.nl/over-de-uva/organisatie/medewerkers/content/g/o/j.goggin/j.goggin.html), University of Amsterdam, Netherlands  
 
-###**Special Guest Presentations**
+### **Special Guest Presentations**
 
 Mara Joustra and [Eva Hilhorst](http://evahilhorst.blogspot.nl), “Comics Journalism”  
 [Jitse Verwer](http://www.abc.nl), “Comics at the American Book Center”  
 [Typex](http://typex.nl), “Comics vs. Culture”
 
 
-###**Round Table Panelists**
+### **Round Table Panelists**
 
 [Dr. Pascal Lefèvre](http://www.luca-arts.be/campus/sint-lukas-brussel), LUCA School of Arts, campus Sint-Lukas Brussel, Belgium  
 Lies Schippers, co-author _The Search_,  [Anne Frank Foundation](http://www.annefrank.org/en/)  
@@ -47,7 +47,7 @@ Lies Schippers, co-author _The Search_,  [Anne Frank Foundation](http://www.anne
 [Joost Swarte](http://www.joostswarte.com), Comics Artist  
 
 
-###**Three Themes**
+### **Three Themes**
 
 **1- Comics in Art, Art in Comics**
 
@@ -62,7 +62,7 @@ The publication of Art Spiegelman’s Maus gave new direction to the discussions
 The concept of “world literature” no longer focuses on the worldwide circulation of (Western) canonical works, but is currently employed to study literature as a global and intercultural phenomenon. Similarly, comics scholarship is presently shifting from its traditional emphasis on specific national and/or European contexts to a focus on the interaction between different comics traditions and the ways in which comics travel the world, including the various linguistic, legal and cultural boundaries that they encounter in this process. However, this does not make questions concerning the cultural and national specificity of comics superfluous. The conference therefore invites papers that explore the possibilities of tensions of reading comics as a form of “world literature,” including, for example: the international reception of comics; manga (around the world); comics and (possibilities of) translation; and comics and/as literature.
 
 
-###**Application**
+### **Application**
 
 Applicants to the conference are invited to submit a 250 word abstract, short biographical note, and indication of
 theme preference by 17 April 2015 to the organizers, drs. Rik Spanjers and Dr. Erin La Cour, at
@@ -71,7 +71,7 @@ theme preference by 17 April 2015 to the organizers, drs. Rik Spanjers and Dr. E
 For a .pdf version of the call for papers, please find it <a href="img/CFP-Comics.Interaction.2015.pdf">here.</a>
 
 
-###**Amsterdam Comics would like to thank**
+### **Amsterdam Comics would like to thank**
 
 [The University of Amsterdam](http://www.uva.nl/en/home), 
 [VU University Amsterdam](http://www.vu.nl/nl/index.asp), 
