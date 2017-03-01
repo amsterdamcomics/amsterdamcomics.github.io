@@ -27,7 +27,7 @@ Rik Spanjers is a PhD researcher at the University of Amsterdam. His thesis proj
 
 Fred Dijs
 
-Joost Pollmann
+[Joost Pollmann](http://joostpollmann.nl)
 
 [Dr. Joyce Goggin](http://www.uva.nl/over-de-uva/organisatie/medewerkers/content/g/o/j.goggin/j.goggin.html)
 
@@ -39,7 +39,7 @@ Joost Pollmann
 
 [Neil Cohn](www.visuallanguagelab.com)
 
-[Pascal Lefèvre](https://sites.google.com/site/lefevrepascal/home)
+[Dr. Pascal Lefèvre](https://sites.google.com/site/lefevrepascal/home)
 
 [Shih Hui Hung](http://shhstudio.com/)
 
