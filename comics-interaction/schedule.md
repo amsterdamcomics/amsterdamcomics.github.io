@@ -43,7 +43,7 @@ tags: navigation
  
 
 
-###__Thursday, 2 July 2015__
+### __Thursday, 2 July 2015__
 
 10:00-10:30: Coffee at the [Oudemanhuispoort](/locations)
 
@@ -79,7 +79,7 @@ tags: navigation
 19:30: Keynote Dinner, by invitation
  
 
-###__Friday, 3 July 2015__
+### __Friday, 3 July 2015__
 
 10:30-11:00: Coffee at the [Oudemanhuispoort](/locations)
 

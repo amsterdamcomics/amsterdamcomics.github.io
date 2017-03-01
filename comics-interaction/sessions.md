@@ -13,9 +13,9 @@ tags: navigation
 
 <a name="s1"></a>
 
-###__Wednesday 1 July 2015__
+### __Wednesday 1 July 2015__
 
-####<u><b>Parallel Panel Session 1 / 13:00-15:30</b></u>
+#### <u><b>Parallel Panel Session 1 / 13:00-15:30</b></u>
   	
 __1A. Comics in Art, Art in Comics: Medium, Mediality, and Color__
 
@@ -74,7 +74,7 @@ __1C. World Literature: Translation, Travel, and Silence__
 
 <a name="s2"></a>
 
-###__Thursday, 2 July 2015__
+### __Thursday, 2 July 2015__
 
 <u><b>Parallel Panel Session 2 / 13:00-15:30</b></u>
 
@@ -137,7 +137,7 @@ __2C. World Literature: The Worlds of Comics__
 
 <a name="s3"></a>
 
-###__Friday, 3 July 2015__
+### __Friday, 3 July 2015__
 
 <u><b>Parallel Panel Session 3 / 13:30-16:00</b></u>
 
