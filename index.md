@@ -4,7 +4,7 @@ title: Amsterdam Comics
 published: true
 ---
 
-## Welcome to Amsterdam Comics
+## Amsterdam Comics
 
 <img src="img/strips.png" alt="" style="width: 750px; margin-left: -40px;"/>
 
