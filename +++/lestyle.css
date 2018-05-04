@@ -77,3 +77,15 @@ pre {
 .rouge {
 	xborder: 1px solid red;
 }
+
+.bio {
+	display: inline-block;
+}
+
+.bio img {
+	width: 150px;
+}
+
+.bio .b {
+	margin: 15px;
+}
