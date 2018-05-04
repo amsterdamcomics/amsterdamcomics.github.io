@@ -15,7 +15,7 @@ published: true
 	<b><a href="https://research.vu.nl/en/persons/el-la-cour">Dr. Erin La Cour</a></b> is a Lecturer in English Literature and Visual Culture at the Free University Amsterdam and holds a PhD from the Amsterdam School for Cultural Analysis, with a thesis entitled “The ‘Graphic Novel’: Discourses on the Archive” (2013). She was project advisor for the sequential art exhibition “Black or White” (Van Abbemuseum, Eindhoven, 2013), is a member of the Nordic Network for Comics Research, is a former editor of the <i>Scandinavian Journal of Comic Art</i>, and is currently a book review editor for <i>Early Popular Visual Culture</i>. Her current research focuses on both the intermediality and mediality of comics in several socio-historical cultural milieux.
 	</div>
 </div>
-<br>
+
 <div class="bio">
 	<img src="{{ site.url }}/img/Rik.png"/>
 	<div class="b">
