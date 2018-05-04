@@ -13,7 +13,7 @@ tags: navigation
 
 * All conference events will take place at the [Oudemanhuispoort (OMHP)](/locations) of the University of Amsterdam, unless otherwise indicated.
 
-###__Wednesday, 1 July 2015__
+### __Wednesday, 1 July 2015__
   	
 10:00-10:30: Conference Registration & Coffee at the [Oudemanhuispoort](/locations)
 
