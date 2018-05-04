@@ -79,13 +79,21 @@ pre {
 }
 
 .bio {
-	display: inline;
+	display: table;	
+	border: 1px solid red;
 }
 
 .bio img {
 	width: 150px;
+	float: left;
+	margin: 5px;
+	border: 1px solid red;
 }
 
-.bio .b {
+.b {
+	width: 75%;
 	margin: 5px;
+	margin-top: 1;
+	border: 1px solid red;
+	float: left;
 }
