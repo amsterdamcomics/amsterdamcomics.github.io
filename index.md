@@ -6,7 +6,7 @@ published: true
 
 <div style="display: block; margin: auto; text-align: center; color: red; font-size: 24pt;">Call for Papers Now Open:
 <br>
-<a href="conferences/fall2018" style="display: block; margin: auto; text-align: center; color: red; font-size: 24pt;">“Drawing Yourself In and Out of It”</a> 
+<a href="conferences/fall2018">“Drawing Yourself In and Out of It”</a> 
 <br>
  15-17 November 2018</div>
 
