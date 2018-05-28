@@ -4,6 +4,8 @@ title: Amsterdam Comics
 published: true
 ---
 
+<a href="conferences/fall2018" style="text-align: center; color: red;">Call for Papers: “Drawing Yourself In and Out of It” 15-17 November 2018</a>
+
 <img src="img/strips.png" alt="" style="width: 750px; margin-left: -40px;"/>
 
 ----
