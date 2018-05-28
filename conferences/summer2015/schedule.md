@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: conf2015
 title: Conference Schedule
-permalink: comics-interaction/schedule/
+permalink: conferences/summer2015/schedule/
 tags: navigation
 ---
 

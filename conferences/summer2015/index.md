@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: conf2015
 title: Amsterdam Comics Conference
-permalink: /comics-interaction/
+permalink: /conferences/summer2015/
 published: true
 ---
 

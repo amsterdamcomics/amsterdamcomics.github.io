@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: conf2015
 title: Conference Location
-permalink: comics-interaction/locations/
+permalink: conferences/summer2015/locations/
 tags: navigation
 ---
 
