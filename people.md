@@ -32,7 +32,7 @@ published: true
 	</div>
 </div>	
 
-<!--
+
 #### Interns
 
 <div class="bio">
@@ -41,5 +41,3 @@ published: true
 		<b><a href="https://nicholascburman.com">Nicholas Burman</a></b> is a writer, event assistant, and student from the UK, based in Amsterdam. He conducts interviews with the underground music scene for MusicMap, writes about the Dutch creative environment on the Skandl Notebook, and is a regular contributor for independent free-paper Amsterdam Alternative. He is currently studying Literature and Society at the VU Amsterdam, where he is also on the board for the Expanded Field creative writing journal and has most recently been the production assistant for the ASAP/Amsterdam Symposium 2018.
 	</div>
 </div>	
-
--->
