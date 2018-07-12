@@ -66,7 +66,7 @@ The concept of “world literature” no longer focuses on the worldwide circula
 
 Applicants to the conference are invited to submit a 250 word abstract, short biographical note, and indication of
 theme preference by 17 April 2015 to the organizers, drs. Rik Spanjers and Dr. Erin La Cour, at
-<a href="mailto:info@amsterdamcomics.com">info@amsterdamcomics.com</a>.
+info{at}amsterdamcomics.com.
 
 For a .pdf version of the call for papers, please find it <a href="img/CFP-Comics.Interaction.2015.pdf">here.</a>
 

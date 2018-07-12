@@ -44,4 +44,4 @@ All the previous points taken together will result in both grant givers and prof
 **Amsterdam Comics Wants You!**
 
 
-Do you want to contribute to this dialogue? Amsterdam Comics welcomes help from wherever it may come. Students, enthusiasts, fans, researchers, inkers, pensionados, drawers, writers, teachers, tempters, and loafers are welcome to email us at <a href="mailto:info@amsterdamcomics.com">info@amsterdamcomics.com</a> with ideas, critiques, questions, concrete plans, and whatever else comes to mind touching on the possible intersections of academia and comics.
+Do you want to contribute to this dialogue? Amsterdam Comics welcomes help from wherever it may come. Students, enthusiasts, fans, researchers, inkers, pensionados, drawers, writers, teachers, tempters, and loafers are welcome to email us at info{at}amsterdamcomics.com with ideas, critiques, questions, concrete plans, and whatever else comes to mind touching on the possible intersections of academia and comics.
