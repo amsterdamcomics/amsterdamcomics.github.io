@@ -4,11 +4,16 @@ title: Amsterdam Comics
 published: true
 ---
 
-<div style="display: block; margin: auto; text-align: center; color: red; font-size: 24pt;">Call for Papers Now Open:
+<div style="display: block; margin: auto; text-align: center; font-size: 24pt;">
+<a href="conferences/fall2018">“Drawing Yourself In and Out of It” 
 <br>
-<a href="conferences/fall2018">“Drawing Yourself In and Out of It”</a> 
+The 2nd International Amsterdam Comics Conference
 <br>
- 15-17 November 2018</div>
+ 15-17 November 2018
+</a>
+<br>
+<div style="color: red;">Registration Information Coming Soon</div>
+</div>
 
 <img src="img/strips.png" alt="" style="width: 750px; margin-left: -40px;"/>
 
