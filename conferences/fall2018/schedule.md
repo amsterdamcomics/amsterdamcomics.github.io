@@ -19,15 +19,15 @@ tags: navigation
 11:00-13:00	Panels 1A & 1B
 
 <pre>
-	<b>Panel 1A: Representing the Unspeakable</b>
-	Diederik Oostdijk, "'Draw Yourself Out of It'": Miriam Katin's Graphic Metamorphosis of Trauma"
-	Charlotte Pylyser, "Many-handed Words in <i>Wij twee samen</i>"
-	Raisa Aho, "Rape as Metaphor, Metaphors of Rape" 
+<b>Panel 1A: Representing the Unspeakable</b>
+Diederik Oostdijk, "'Draw Yourself Out of It'": Miriam Katin's Graphic Metamorphosis of Trauma"
+Charlotte Pylyser, "Many-handed Words in <i>Wij twee samen</i>"
+Raisa Aho, "Rape as Metaphor, Metaphors of Rape" 
 
-	<b>Panel 1B: Time, Space, and the City</b>
-	Tânia Alexandra Cardoso, "In and Out: The Possible Cities in Procurando São Paulo"
-	Alex Fitch, "Drawn into Other Times: The Anachronistic Flâneur in the Work of Alan Moore"
-	María Fernanda Díaz-Basteris, "Graphic Narratives in Times of Crisis: Healing Collective Trauma"
+<b>Panel 1B: Time, Space, and the City</b>
+Tânia Alexandra Cardoso, "In and Out: The Possible Cities in Procurando São Paulo"
+Alex Fitch, "Drawn into Other Times: The Anachronistic Flâneur in the Work of Alan Moore"
+María Fernanda Díaz-Basteris, "Graphic Narratives in Times of Crisis: Healing Collective Trauma"
 </pre>
 
 13:00-14:00	Lunch Break
@@ -35,17 +35,17 @@ tags: navigation
 14:00-16:30	Panels 2A & 2B
 
 <pre>
-	<b>Panel 2A: Documentary and/as Journalism</b>
-	Laura Schlichting, “'Would you have listened to me if I looked like this?': The ‘Cartoon-Me’ and its Roles in Comics Journalism" 
-	Johannes C. P. Schmid, "Documentary Comics as Visual Framing"
-	Viivi Rintanen, "Comics about Madness"
-	Martha Newbigging, "Drawing Comics: A Methodology to Materialize Queer Presence within Family Narratives"
+<b>Panel 2A: Documentary and/as Journalism</b>
+Laura Schlichting, “'Would you have listened to me if I looked like this?': The ‘Cartoon-Me’ and its Roles in Comics Journalism" 
+Johannes C. P. Schmid, "Documentary Comics as Visual Framing"
+Viivi Rintanen, "Comics about Madness"
+Martha Newbigging, "Drawing Comics: A Methodology to Materialize Queer Presence within Family Narratives"
 
-	<b>Panel 2B: Women, Comics, and Autobiofiction</b>
-	Ariel Kahn, "Fictive Autobiographies – Embodied Truth in Nested Feminist Narratives"
-	Rebecca Scherr, "The Politics of Touch and Letting Go in the Works of Phoebe Gloeckner" 
-	Sarah Lightman, "Sarah vs. Sarah in The Book of Sarah"
-	Houman Sadri, "The Return Journey in Alison Bechdel’s <i>Fun Home</i>"
+<b>Panel 2B: Women, Comics, and Autobiofiction</b>
+Ariel Kahn, "Fictive Autobiographies – Embodied Truth in Nested Feminist Narratives"
+Rebecca Scherr, "The Politics of Touch and Letting Go in the Works of Phoebe Gloeckner" 
+Sarah Lightman, "Sarah vs. Sarah in The Book of Sarah"
+Houman Sadri, "The Return Journey in Alison Bechdel’s <i>Fun Home</i>"
  </pre>
  
 16:30-17:00	Break
