@@ -63,7 +63,6 @@ Houman Sadri, "The Return Journey in Alison Bechdel’s <i>Fun Home</i>"
 10:00-12:00	Panels 3A & 3B
 
 <pre>
-	
 <b>Panel 3A: Ethics, Biopolitics, and Social Change</b>
 Hattie Earl, "How Comics Give Voice to Unspoken Narratives"
 Véronique Bragard, "The Ghostly Memory of Conrad"
@@ -75,10 +74,10 @@ Vasso Belia, "'The moment when a feeling enters the body': On the Politics of Dr
 	Roof Walking"
 Davida Pines, "Drawing Out Death: Roz Chast’s <i>Can’t We Talk about Something More Pleasant?</i>"
 JoAnn Purcell, "Disability, Daily Drawn - Encounters with Difference"
-
 </pre>
 
 12:00-14:30	__Special Panel on Comics and Education with Lunch__
+
 <pre>
 Julian Lawrence, "The Secret Identities of Grade Four Students: Making Comics and Negotiating 
 	Conceptions of Self in School"
@@ -87,6 +86,7 @@ Kevin Hoffin and Adam Lynes, "The From Villain to Hero Initiative: An Origin Sto
 </pre>
 
 14:30-16:30	Panels 4A & 4B
+
 <pre>
 <b>Panel 4A: Vulnerability, Visiblity, and Childhood in War and Conflict</b>
 Olga Michael, "Drawing the Reader In and Out: Looking at the Children in Nina Bunjevac’s 
@@ -107,12 +107,12 @@ Anna Poletti, "Autographics: Liking the Cardboard Box Memorial"
 
 18:30		Reception
 
-
 ### __Saturday 17 November__
 
 9:30-10:00	Coffee
 
 10:00-12:30 __Special Practice-Based Presentations__
+
 <pre>
 Simon Grennan, "<i>On Parables of Care</i>"
 Claudia Thomas, Anne Schirrmeister, and Winfried Meißner, "Don't Be Afraid of Surgery!" 
@@ -122,6 +122,7 @@ Stef Lenk, "The Stone"
 12:30-13:30	Lunch Break
 
 13:30-16:00	Panels 5A & 5B
+
 <pre>
 <b>Panel 5A: From Narratology to Phenomenology</b>
 Roel van den Oever, "The Narrator in Comics Narratology"
@@ -137,7 +138,6 @@ Tobias J. Yu-Kiener, "Biographical Graphic Novels About Dutch Painters: Question
 Michael Connerty, "Cheap Laughs: The Mass Appeal of British Comics in the 1890s"
 Maggie Gray, "Drawing Attention to Drawing, Performing Print: Alan Moore, Underground Cartoonist"
 </pre>
-
 
 16:00-17:00	Break and Travel Time to Het Amsterdams Theaterhuis
 
