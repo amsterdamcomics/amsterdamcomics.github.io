@@ -8,7 +8,7 @@ published: true
 ## “Drawing Yourself In and Out of It”  
 ## The 2nd International Amsterdam Comics Conference
 
-### __Hotels:__
+## __Hotels__
 
 _Central Amsterdam_
 
@@ -45,64 +45,4 @@ _Amsterdam Zuid_
 * [Holiday Inn Amsterdam](http://ihg.com), De Boelelaan 2, 1083 HJ Amsterdam → 133€ per night 
 	* Take metro 51 from Amsterdam, Station RAI in the direction “Westwijk” to get to De Boelelaan/VU (~7 minutes).
 
-
-### __Restaurants:__
-
-_Central Amsterdam_
-
-* [Foodhallen](http://foodhallen.nl), Bellamyplein 51, 1053
-AT Amsterdam
-* [Dr. Pieper](http://drpieper.nl), Kinkerstraat 142H, 1053
-EG Amsterdam
-* [Hollands Hap Hmm Restaurant](http://hap-hmm.nl), Eerste
-Helmersstraat 33, 1054 CZ Amsterdam
-* [Sherpa Restaurant](http://sherparestaurant.nl), Korte
-Leidsedwarsstraat 58, 1017 RD Amsterdam
-* [Mister Meatball](http://mistermeatball.nl),
-Nieuwebrugsteeg 21, 1012 AG Amsterdam
-* [De Silveren Spiegel](http://desilverenspiegel.com),
-Kattengat 4-6, 1012 SZ Amsterdam
-* [Envy](http://envy.nl), Prinsengracht 381, 1016 HL
-Amsterdam
-* [Vinkeles](http://vinkeles.com), Keizersgracht 384, 1016
-GB Amsterdam
-
-_Amsterdam East_
-
-* [Amsterdam Roest,](http://amsterdamroest.nl) Jacob
-Bontiusplaats 1, 1018 LL Amsterdam
-
-_De Pijp_
-
-* [Coffee & Coconuts](http://coffeeandcoconuts.com),
-Ceintuurbaan 282-284, 1072 GK Amsterdam
-
-* [Restaurant De Waaghals](http://waaghals.nl), Frans
-Halsstraat 29, 1072 BK Amsterdam
-
-_Amsterdam Zuid_
-
-* [Spaghetteria](http://spaghetteria-pastabar.nl),
-Olympiaplein 176, 1076 AM Amsterdam
-* [Restaurant As](http://restaurantas.nl), Pr. Irenestraat
-19, 1077 WT Amsterdam (inside Beatrixpark)
-* [CIRCL](http://circl.nl), Gustav Mahlerplein 1 B, 1082 MS
-Amsterdam
-* [Bolenius Restaurant](http://bolenius-restaurant.nl),
-George Gershwinlaan 30, 1082 MT Amsterdam
-* [Sushilee](http://sushilee.nl), George Gershwinlaan 534,
-1082 MT Amsterdam
-
-### __Museums:__
-
-*[Rijksmuseum](https://www.rijksmuseum.nl/en), Museumstraat 1, 1071 XX Amsterdam
-*[Van Gogh museum](https://www.vangoghmuseum.nl/en), Museumplein 6, 1071 DJ Amsterdam
-*[Stedelijk Museum](https://www.stedelijk.nl/en), Museumplein 10, 1071 DJ Amsterdam
-*[Hermitage Amsterdam](https://hermitage.nl/nl/), Amstel 51, 1018 EJ Amsterdam
-*[Anne Frank House](https://www.annefrank.org/en/), Prinsengracht 263-267, 1016 GV Amsterdam
-*[Amsterdam Museum](https://www.amsterdammuseum.nl/), Kalverstraat 92, 1012 PH Amsterdam
-*[Scheepvaartmuseum - Maritime Museum](https://www.hetscheepvaartmuseum.com/), Kattenburgerplein 1, 1018 KK Amsterdam
-*[Allard Pierson Museum](http://www.allardpiersonmuseum.nl/en), Oude Turfmarkt 129, 1012 GC Amsterdam
-*[FOAM Photography Amsterdam](https://www.foam.org/), Keizersgracht 609, 1017 DS Amsterdam
-*[EYE Film Museum](https://www.eyefilm.nl/en), IJpromenade 1, 1031 KT Amsterdam
 
