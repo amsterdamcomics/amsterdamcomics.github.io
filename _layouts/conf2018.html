@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Amsterdam Comics</title>
+    <link rel="stylesheet" type="text/css" href="{{ site.url }}/+++/lestyle.css" media="screen"/>
+    <script src="//use.edgefonts.net/questrial.js"></script>
+  </head>
+  <body>
+    <content>
+      <div class="section">
+        <a href="/"><img class="logo" src="{{ site.url }}/img/Logo_AMCOM_medium.png" width="150"/></a>
+        {% if site.navigation %}
+        <nav>
+          <a href="/index">Home</a><br>
+          <a href="/about/">About</a><br>
+          <a href="/people/">People</a><br>                    
+          Master Class Series<br>
+          &nbsp; &nbsp;<a href="/master-class-and-lectures/spring2017">#3 - Spring 2017</a><br>
+          &nbsp; &nbsp;<a href="/master-class-and-lectures/fall2016">#2 - Fall 2016</a><br>
+          &nbsp; &nbsp;<a href="/master-class-and-lectures/spring2016">#1 - Spring 2016</a><br>
+          Conferences<br>
+          &nbsp; &nbsp;<a href="/conferences/fall2018">#2 - Fall 2018</a><br>
+          &nbsp; &nbsp; &nbsp; &nbsp;<a href="/conferences/fall2018/schedule">Schedule</a><br>
+          &nbsp; &nbsp; &nbsp; &nbsp;<a href="/conferences/fall2018/hotels_restaurants_museums">Accomodation</a><br>
+          &nbsp; &nbsp; &nbsp; &nbsp;<a href="/conferences/fall2018/transport">Transport</a><br>          
+          &nbsp; &nbsp;<a href="/conferences/summer2015">#1 - Summer 2015</a><br>
+          <br>
+        </nav>
+        {% endif %}
+      </div>
+      <div id="main" class="section">
+        {{ content }}
+        {% include footer.html %}
+      </div>
+    </content>
+    <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-59841633-1', 'auto');
+    ga('send', 'pageview');
+  </script>
+  </body>
+</html>

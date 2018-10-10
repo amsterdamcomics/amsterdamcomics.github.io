@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: conf2018
 title: Conference Hotels, Restaurants, Museums
 permalink: /conferences/fall2018/hotels_restaurants_museums
 published: true
@@ -7,7 +7,6 @@ published: true
 
 ## “Drawing Yourself In and Out of It”  
 ## The 2nd International Amsterdam Comics Conference
-
 
 ### __Hotels:__
 
