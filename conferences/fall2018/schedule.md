@@ -81,7 +81,6 @@ JoAnn Purcell, "Disability, Daily Drawn - Encounters with Difference"
 Julian Lawrence, "The Secret Identities of Grade Four Students: Making Comics and Negotiating 
 	Conceptions of Self in School"
 Frederik Byrn Køhlert, "In the Cards: Comics-Making in the Literature Classroom"
-Kevin Hoffin and Adam Lynes, "The From Villain to Hero Initiative: An Origin Story" 
 </pre>
 
 14:30-16:30	Panels 4A & 4B
