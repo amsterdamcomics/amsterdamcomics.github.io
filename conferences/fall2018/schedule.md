@@ -48,7 +48,7 @@ Ariel Kahn, "Fictive Autobiographies – Embodied Truth in Nested Feminist Narra
 Rebecca Scherr, "The Politics of Touch and Letting Go in the Works of Phoebe Gloeckner" 
 Sarah Lightman, "Sarah vs. Sarah in The Book of Sarah"
 Houman Sadri, "The Return Journey in Alison Bechdel’s <i>Fun Home</i>"
- </pre>
+</pre>
  
 16:30-17:00	Break
 
@@ -61,7 +61,6 @@ Houman Sadri, "The Return Journey in Alison Bechdel’s <i>Fun Home</i>"
 9:30-10:00	Coffee
 
 10:00-12:00	Panels 3A & 3B
-
 <pre>
 <b>Panel 3A: Ethics, Biopolitics, and Social Change</b>
 Hattie Earl, "How Comics Give Voice to Unspoken Narratives"
