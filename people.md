@@ -41,3 +41,12 @@ published: true
 		<b><a href="https://nicholascburman.com">Nicholas Burman</a></b> is a writer, event assistant, and student from the UK, based in Amsterdam. He conducts interviews with the underground music scene for MusicMap, writes about the Dutch creative environment on the Skandl Notebook, and is a regular contributor for independent free-paper Amsterdam Alternative. He is currently studying Literature and Society at the VU Amsterdam, where he is also on the board for the Expanded Field creative writing journal and has most recently been the production assistant for the ASAP/Amsterdam Symposium 2018.
 	</div>
 </div>	
+
+#### Interns
+
+<div class="bio">
+	<img src="{{ site.url }}/img/Doga.jpg"/>
+	<div class="b">
+		<b><a href="https://shimmeringpiecesofthought.tumblr.com">Doǧa Tekneci</a></b> is a literature student and artist from Turkey currently based in Amsterdam. After growing up in Dubai in an international environment, she realized that she thrives in multicultural settings and pursued this by becoming involved with organizations such as the European Youth Parliament and Istanbul, a volunteer youth community dedicated to social issues. Doǧa has a huge passion for animal rights and environmental issues, as well as painting and creating short comic strips. When she occasionally uses her pen to write instead of draw, focusing mostly on academic and political issues.
+	</div>
+</div>	
