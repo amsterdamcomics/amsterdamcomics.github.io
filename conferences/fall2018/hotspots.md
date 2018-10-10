@@ -1,14 +1,16 @@
 ---
 layout: conf2018
 title: Comics, Books, Museums, Art Hot-Spots
-permalink: /conferences/fall2018/spots
+permalink: /conferences/fall2018/hotspots
 published: true
 ---
 
 ## “Drawing Yourself In and Out of It”  
 ## The 2nd International Amsterdam Comics Conference
 
-### _Comics, Books, and Art Hot-Spots:_
+##  Hotspots
+
+### _Comics, Books, and Art:_
 
 * [Lambiek](http://lambiek.net), Koningsstraat 27, 1011 ET
 Amsterdam
@@ -16,16 +18,16 @@ Amsterdam
 	regularly is a host to illustration workshops, events, and art exhibitions.
 
 
-* [Henk Comics]{.underline}, Zeedijk 101, 1012 AS Amsterdam
+* [Henk Comics](http://www.comics.nl), Zeedijk 101, 1012 AS Amsterdam
 	* A comic book store with one of the largest varieties of comics in Amsterdam. Half of the store is dedicated to European and American comics, while the rest c
 	ontains Asian imports and full graphic novels, as well as films, figurines, and game memorabilia. 
 
 
-* [The American Book Centre]{.underline}, Spui 12, 1012 XA Amsterdam
+* [The American Book Centre](https://abc.nl), Spui 12, 1012 XA Amsterdam
 	* A bookstore which has been growing since the 70s, the ABC has become one of the largest purveyor of English language books on the continent.
 
 
-* [The Book Exchange]{.underline}, Kloveniersburgwal 58, 1012 CX Amsterdam
+* [The Book Exchange](http://bookexchange.nl), Kloveniersburgwal 58, 1012 CX Amsterdam
 	* The largest second-hand bookstore in Amsterdam. They buy and sell good quality used English language books.
 
 
@@ -37,7 +39,7 @@ Amsterdam
 	* A huge industrial warehouse which has been transformed into a cultural breeding ground for over 250 artists who have studios there. The other parts of the building are rented out for film recordings, photo shoots, dance, music, and theatre performances, exhibitions, auctions, and conferences.
 
 
-* [Athenaeum Boekhandel]{.underline}, Spui 14-16, 1012 XA Amsterdam
+* [Athenaeum Boekhandel](https://www.athenaeum.nl), Spui 14-16, 1012 XA Amsterdam
 	* A small bookshop and newstand which contains a large selection of literature from different languages, and is one of the best sources for news-copy in the city.
 
 
