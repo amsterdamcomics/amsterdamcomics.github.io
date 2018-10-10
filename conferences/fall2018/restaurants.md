@@ -9,7 +9,7 @@ published: true
 ## The 2nd International Amsterdam Comics Conference
 
 
-## __Restaurants:__
+## __Restaurants__
 
 _On Campus_
 
