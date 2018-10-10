@@ -19,9 +19,16 @@ tags: navigation
 11:00-13:00	Panels 1A & 1B
 
 <pre>
-	__Panel 1A: Representing the Unspeakable__
+	<b>Panel 1A: Representing the Unspeakable</b>
+	Diederik Oostdijk, "'Draw Yourself Out of It'": Miriam Katin's Graphic Metamorphosis of Trauma"
+	Charlotte Pylyser, "Many-handed Words in <i>Wij twee samen</i>"
+	Raisa Aho, "Rape as Metaphor, Metaphors of Rape" 
 
-	__Panel 1B: Time, Space, and the City__
+	<b>Panel 1B: Time, Space, and the City</b>
+	Tânia Alexandra Cardoso, "In and Out: The Possible Cities in Procurando São Paulo"
+	Alex Fitch, "Drawn into Other Times: The Anachronistic Flâneur in the Work of Alan Moore"
+	María Fernanda Díaz-Basteris, "Graphic Narratives in Times of Crisis: Healing Collective Trauma"
+
 </pre>
 
 ### __Friday 16 November__
