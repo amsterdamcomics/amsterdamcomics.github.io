@@ -47,7 +47,7 @@ Amsterdam
 	* A small but charming second-hand bookstore with a selection of both English and Dutch used books.
 
 
-### __Museums:__
+### _Museums:_
 
 * [Rijksmuseum](https://www.rijksmuseum.nl/en), Museumstraat 1, 1071 XX Amsterdam
 * [Van Gogh museum](https://www.vangoghmuseum.nl/en), Museumplein 6, 1071 DJ Amsterdam
