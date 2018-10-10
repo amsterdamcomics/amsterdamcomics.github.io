@@ -89,7 +89,8 @@ Kevin Hoffin and Adam Lynes, "The From Villain to Hero Initiative: An Origin Sto
 14:30-16:30	Panels 4A & 4B
 <pre>
 <b>Panel 4A: Vulnerability, Visiblity, and Childhood in War and Conflict</b>
-Olga Michael,"Drawing the Reader In and Out: Looking at the Children in Nina Bunjevac’s <i>Fatherland</i>"
+Olga Michael, "Drawing the Reader In and Out: Looking at the Children in Nina Bunjevac’s 
+	<i>Fatherland</i>"
 Candida Rifkind, "Childhood Play and Refugee Agency in Leila Abdelrazaq’s <i>Baddawi</i>"
 Dragoş Manea and Mihaela Precup, "From the War on Terror to the Refugee Crisis: Representing 
 	Vulnerability in Debi Cornwall’s <i>Welcome to Camp America and Kate Evans’s Threads</i>"
@@ -125,7 +126,8 @@ Stef Lenk, "The Stone"
 <b>Panel 5A: From Narratology to Phenomenology</b>
 Roel van den Oever, "The Narrator in Comics Narratology"
 Christopher Pizzino, "The Cartoon on the Page: A Phenomenology of Reading"
-Marjolein van Tooren, "Drawing the Reader into Surrealism – Interpicturality as a Biographical Device in <i>Magritte: This is Not a Biography</i> by Vincent Zabus and Thomas Campi"
+Marjolein van Tooren, "Drawing the Reader into Surrealism – Interpicturality as a Biographical 
+	Device in <i>Magritte: This is Not a Biography</i> by Vincent Zabus and Thomas Campi"
 Zoran Djukanovic, "Decoding the Poetic Structure of Lorenzo Mattotti’s <i>Fires</i>" 
 
 <b>Panel 5B: Public Relations and Public Personas</b>
