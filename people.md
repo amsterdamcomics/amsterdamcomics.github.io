@@ -42,8 +42,6 @@ published: true
 	</div>
 </div>	
 
-#### Interns
-
 <div class="bio">
 	<img src="{{ site.url }}/img/Doga.jpg"/>
 	<div class="b">
