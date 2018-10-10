@@ -1,7 +1,7 @@
 ---
 layout: conf2018
 title: Conference Hotels, Restaurants, Museums
-permalink: /conferences/fall2018/hotels_restaurants_museums
+permalink: /conferences/fall2018/hotels
 published: true
 ---
 

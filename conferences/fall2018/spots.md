@@ -1,6 +1,6 @@
 ---
 layout: conf2018
-title: Comics, Books, and Art Hot-Spots
+title: Comics, Books, Museums, Art Hot-Spots
 permalink: /conferences/fall2018/spots
 published: true
 ---
@@ -8,7 +8,7 @@ published: true
 ## “Drawing Yourself In and Out of It”  
 ## The 2nd International Amsterdam Comics Conference
 
-## Comics, Books, and Art Hot-Spots
+### _Comics, Books, and Art Hot-Spots:_
 
 * [Lambiek](http://lambiek.net), Koningsstraat 27, 1011 ET
 Amsterdam
@@ -43,3 +43,19 @@ Amsterdam
 
 * [Fenix Books](http://fenixbooks.com), Frans Halsstraat 88, 1072 BW Amsterdam
 	* A small but charming second-hand bookstore with a selection of both English and Dutch used books.
+
+
+### __Museums:__
+
+*[Rijksmuseum](https://www.rijksmuseum.nl/en), Museumstraat 1, 1071 XX Amsterdam
+*[Van Gogh museum](https://www.vangoghmuseum.nl/en), Museumplein 6, 1071 DJ Amsterdam
+*[Stedelijk Museum](https://www.stedelijk.nl/en), Museumplein 10, 1071 DJ Amsterdam
+*[Hermitage Amsterdam](https://hermitage.nl/nl/), Amstel 51, 1018 EJ Amsterdam
+*[Anne Frank House](https://www.annefrank.org/en/), Prinsengracht 263-267, 1016 GV Amsterdam
+*[Amsterdam Museum](https://www.amsterdammuseum.nl/), Kalverstraat 92, 1012 PH Amsterdam
+*[Scheepvaartmuseum - Maritime Museum](https://www.hetscheepvaartmuseum.com/), Kattenburgerplein 1, 1018 KK Amsterdam
+*[Allard Pierson Museum](http://www.allardpiersonmuseum.nl/en), Oude Turfmarkt 129, 1012 GC Amsterdam
+*[FOAM Photography Amsterdam](https://www.foam.org/), Keizersgracht 609, 1017 DS Amsterdam
+*[EYE Film Museum](https://www.eyefilm.nl/en), IJpromenade 1, 1031 KT Amsterdam
+
+
