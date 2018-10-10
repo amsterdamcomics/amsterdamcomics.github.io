@@ -7,12 +7,10 @@ published: true
 <div style="display: block; margin: auto; text-align: center; font-size: 24pt;">
 <a href="conferences/fall2018">“Drawing Yourself In and Out of It” 
 <br>
-The 2nd International Amsterdam Comics Conference
-<br>
  15-17 November 2018
 </a>
 <br>
-<div style="color: red;">Registration Information Coming Soon</div>
+<a href="https://fd20.formdesk.com/vu-onlinepayment/FGW_Registration_Drawing_Yourself_In_and_Out_of_It"><div style="color: red;">>> Register Now <<</div></a>
 </div>
 
 <img src="img/strips.png" alt="" style="width: 750px; margin-left: -40px;"/>
