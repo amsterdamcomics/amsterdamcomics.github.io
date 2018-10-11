@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: conf2018
 title: Amsterdam Comics
 published: true
 ---
