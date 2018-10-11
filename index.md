@@ -10,6 +10,7 @@ published: true
  15-17 November 2018
 </a>
 <br>
+<a href="/conferences/fall2018/schedule"><div style="color: red;"> Schedule </div></a>
 <a href="https://fd20.formdesk.com/vu-onlinepayment/FGW_Registration_Drawing_Yourself_In_and_Out_of_It"><div style="color: red;">>> Register Now <<</div></a>
 </div>
 
