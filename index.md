@@ -5,7 +5,7 @@ published: true
 ---
 
 <a href="conferences/fall2018/schedule/">
-	<img src="conferences/fall2018/img/index.md" alt="" style="width: 750px; margin-left: -40px;"/>
+	<img src="conferences/fall2018/img/Drawing_Yourself_In_and_Out_of_It_POSTER-sm.jpg" alt="" style="width: 750px; margin-left: -40px;"/>
 </a>
 
 ----
