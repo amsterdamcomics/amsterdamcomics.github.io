@@ -10,7 +10,7 @@ tags: navigation
 
 ## Conference Schedule Overview
 
-### [Full Conference Program Booklet]()
+### [Full Conference Program Booklet](http://amsterdamcomics.com/conferences/fall2018/Drawing_Yourself_In_and_Out_of_It_CONFERNCE_PROGRAM_BOOKLET.pdf)
 
 <br>
 
