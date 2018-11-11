@@ -10,6 +10,10 @@ tags: navigation
 
 ## Conference Schedule Overview
 
+### Full conference booklet
+
+<br><br>
+
 ### __Thursday 15 November__
 
 9:30-10:30	Registration and Coffee
