@@ -8,7 +8,7 @@ tags: navigation
 ## “Drawing Yourself In and Out of It”  
 ## The 2nd International Amsterdam Comics Conference
 
-## Conference Schedule
+## Conference Schedule Overview
 
 ### __Thursday 15 November__
 
@@ -125,7 +125,7 @@ Anna Poletti, "Autographics: Liking the Cardboard Box Memorial"
 
 <pre>
 Chair: Rik Spanjers
-Simon Grennan, "<i>On Parables of Care</i>"
+Simon Grennan, "On <i>Parables of Care</i>"
 Claudia Thomas, Anne Schirrmeister, and Winfried Meißner, "Don't Be Afraid of Surgery!" 
 Stef Lenk, "Sisyphus in Graphic Narrative and the Academy: Building Bridges between 
 	Practise and Theory in Artistic Research"
@@ -160,4 +160,5 @@ Discussants: Simon Grennan, Anna Poletti, Gaston Franssen, and Joyce Lamerichs
 </pre>
 
 18:00-19:00	__Comics Artists Tables and Closing Party__
-<pre>Artists: Zone 5300: Tonio van Vugt & Natasja van Loon, Maia Matches (Maia Machèn), Margreet de Heer, Juliacks, and Jelko Arts</pre>
+<pre>Artists: Zone 5300: Tonio van Vugt & Natasja van Loon, Maia Matches (Maia Machèn), 
+Margreet de Heer, Juliacks, and Jelko Arts</pre>
