@@ -57,6 +57,9 @@ Houman Sadri, "The Return Journey in Alison Bechdel’s <i>Fun Home</i>"
 16:30-17:00	Break
 
 17:00-18:30 __Keynote lecture: Nina Mickwitz, “Graphic Encounters: From Ellipsis to Excess”__
+<pre>
+	Moderator: Erin La Cour
+</pre>
 
 18:30		Reception
 
@@ -114,6 +117,9 @@ Anna Poletti, "Autographics: Liking the Cardboard Box Memorial"
 16:30-17:00	Break
 
 17:00-18:30	__Keynote Interview with Joe Sacco: The Practice and Effects of Comics Journalism__
+<pre>
+	With Rik Spanjers, Aimée de Jongh, and Kees Ribbens
+</pre>
 
 18:30 		Reception
 
