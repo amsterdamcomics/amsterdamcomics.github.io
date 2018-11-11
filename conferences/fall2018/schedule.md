@@ -10,9 +10,9 @@ tags: navigation
 
 ## Conference Schedule Overview
 
-### Full conference booklet
+### [Full Conference Program Booklet]()
 
-<br><br>
+<br>
 
 ### __Thursday 15 November__
 
