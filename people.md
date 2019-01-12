@@ -51,7 +51,7 @@ published: true
 	</div>
 </div>	
 
-#### Interns
+#### Intern
 
 <div class="bio">
 	<img src="{{ site.url }}/img/Doga.jpg"/>
