@@ -23,6 +23,16 @@ published: true
 	</div>
 </div>	
 
+#### Research Coordinator 
+
+<div class="bio">
+	<img src="{{ site.url }}/img/Vasso.jpg"/>
+	<div class="b">
+		<b><a href="https://www.uu.nl/medewerkers/VBelia/Profiel">Vasiliki (Vasso) Belia</a></b> is lecturer and researcher in the Gender Studies Programme at Utrecht University, where she teaches feminist theory and research methods. Her research is on autobiographical graphic narratives, the politics of literature and comics, and intertextual and transmedial relationships between feminist literary works and graphic novels. Vasso studied Theatre and Literature at the University of Athens. She holds a master’s degree in Cultural Management from Panteion University and a research master’s degree in Gender Studies from Utrecht University.
+	</div>
+</div>	
+
+
 #### Internship Director 
 
 <div class="bio">
