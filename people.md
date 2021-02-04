@@ -28,7 +28,7 @@ published: true
 <div class="bio">
 	<img src="{{ site.url }}/img/Vasso.jpg"/>
 	<div class="b">
-		<b><a href="https://www.uu.nl/medewerkers/VBelia/Profiel">Vasiliki (Vasso) Belia</a></b> 
+		<b><a href="https://www.maastrichtuniversity.nl/p70072460">Vasiliki (Vasso) Belia</a></b> 
 		 is a PhD candidate at the Department of Literature and Art, Maastricht University. In her research, Vasiliki studies contemporary graphic narratives that engage with the history of feminism and negotiate its meaning in the present. Vasso previously worked as lecturer and researcher at the Gender Studies Programme, Department of Media and Culture Studies, Utrecht University (2015-2020). She holds bachelor’s degrees in Theatre Studies and English Language and Literature (University of Athens), a master’s degree in Cultural Management (Panteion University of Social and Political Sciences), and a research master’s degree in Gender Studies (Utrecht University).
 	</div>
 </div>	
