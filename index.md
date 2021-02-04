@@ -12,4 +12,4 @@ Founded in 2014, Amsterdam Comics is an independent research consortium that see
 
 ----
 
-<img src="conferences/fall2018/img/Drawing_Yourself_In_and_Out_of_It_POSTER-footer.jpg" alt="" style="width: 42.5em;"/>
+<img src="conferences/fall2018/img/Drawing_Yourself_In_and_Out_of_It_POSTER-footer.jpg" alt="" style="width: 45em;"/>
