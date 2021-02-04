@@ -19,7 +19,7 @@ published: true
 <div class="bio">
 	<img src="{{ site.url }}/img/Rik.png"/>
 	<div class="b">
-		<b><a href="http://www.uva.nl/profiel/s/p/r.spanjers/r.spanjers.html">Rik Spanjers</a></b> is a lecturer in the Modern Dutch Literature department at both the University of Amsterdam and Utrecht University. His PhD project, <i>Comics Realism and the Maus Event</i>, at the University of Amsterdam will be published in 2022 with the University Press of Mississippi. In 2014, he worked as a researcher for the exhibition “Cool Japan,” which was staged in 2017 at the National Museum of Ethnology Leiden and in the summer of 2018 in the Tropenmuseum Amsterdam. He also writes reviews for Aniway and Stripschrift, two leading Dutch comics magazines.
+		<b><a href="https://www.uu.nl/staff/RSpanjers">Rik Spanjers</a></b> is a lecturer in the Modern Dutch Literature department at both Utrecht University and Utrecht University College. His PhD project, <i>Comics Realism and the Maus Event</i>, at the University of Amsterdam will be published in 2022 with the University Press of Mississippi. In 2014, he worked as a researcher for the exhibition “Cool Japan,” which was staged in 2017 at the National Museum of Ethnology Leiden and in the summer of 2018 in the Tropenmuseum Amsterdam. He also writes reviews for Aniway and Stripschrift, two leading Dutch comics magazines.
 	</div>
 </div>	
 
