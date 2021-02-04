@@ -12,14 +12,14 @@ published: true
 <div class="bio">
 	<img src="{{ site.url }}/img/Erin.jpg"/>
 	<div class="b">
-	<b><a href="https://research.vu.nl/en/persons/el-la-cour">Dr. Erin La Cour</a></b> is Assitant Professor in English Literature and Visual Culture at the Vrije Universiteit Amsterdam and holds a PhD from the Amsterdam School for Cultural Analysis, with a thesis entitled “The ‘Graphic Novel’: Discourses on the Archive” (2013). She was project advisor for the sequential art exhibition “Black or White” (Van Abbemuseum, Eindhoven, 2013), is a member of the Nordic Network for Comics Research, is a former editor of the <i>Scandinavian Journal of Comic Art</i>, and is a book review editor for <i>Early Popular Visual Culture</i>. Her current research focuses on both the intermediality and mediality of comics in several socio-historical cultural milieux.
+	<b><a href="https://research.vu.nl/en/persons/el-la-cour">Dr. Erin La Cour</a></b> is Assistant Professor in English Literature and Visual Culture at Vrije Universiteit Amsterdam. Her published research focuses on both the intermediality and mediality of comics in several socio-historical cultural milieux, and most recently on Graphic Medicine. She has also co-edited four comics studies collections, <i>Comics and Power: Representing and Questioning Culture, Subjects, and Communities</i> (Cambridge Scholars, 2015) and “Comics in Art/Art in Comics” (<i>Image [&] Narrative</i>, 2016), and the forthcoming “Graphic Medicine” (<i>Biography</i>, 2021) and <i>Key Terms in Comics Studies</i> (Palgrave Macmillan, 2021). She is also a Comenius Fellow of The Netherlands Initiative for Education Research (NRO), for which she conducted the project “Opening a Dialogue about Mental Health through Comics and Creative Writing (www.dialoguinghealth.com).
 	</div>
 </div>
 
 <div class="bio">
 	<img src="{{ site.url }}/img/Rik.png"/>
 	<div class="b">
-		<b><a href="http://www.uva.nl/profiel/s/p/r.spanjers/r.spanjers.html">Rik Spanjers</a></b> is on the verge of completing his PhD project, <i>Comics Realism and the Maus Event</i>, at the University of Amsterdam. He currently teaches in the Modern Dutch Literature department at both the University of Amsterdam and Utrecht University. In 2014, he worked as a researcher for the exhibition “Cool Japan,” which was staged in 2017 at the National Museum of Ethnology Leiden and in the summer of 2018 in the Tropenmuseum Amsterdam. He also writes reviews for Aniway and Stripschrift, two leading Dutch comics magazines.
+		<b><a href="http://www.uva.nl/profiel/s/p/r.spanjers/r.spanjers.html">Rik Spanjers</a></b> is a lecturer in the Modern Dutch Literature department at both the University of Amsterdam and Utrecht University. His PhD project, <i>Comics Realism and the Maus Event</i>, at the University of Amsterdam will be published in 2022 with the University Press of Mississippi. In 2014, he worked as a researcher for the exhibition “Cool Japan,” which was staged in 2017 at the National Museum of Ethnology Leiden and in the summer of 2018 in the Tropenmuseum Amsterdam. He also writes reviews for Aniway and Stripschrift, two leading Dutch comics magazines.
 	</div>
 </div>	
 
