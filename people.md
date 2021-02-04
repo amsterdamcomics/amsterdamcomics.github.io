@@ -23,6 +23,16 @@ published: true
 	</div>
 </div>	
 
+#### Research Coordinator 
+
+<div class="bio">
+	<img src="{{ site.url }}/img/Vasso.jpg"/>
+	<div class="b">
+		<b><a href="https://www.uu.nl/medewerkers/VBelia/Profiel">Vasiliki (Vasso) Belia</a></b> is lecturer and researcher in the Gender Studies Programme at Utrecht University, where she teaches feminist theory and research methods. Her research is on autobiographical graphic narratives, the politics of literature and comics, and intertextual and transmedial relationships between feminist literary works and graphic novels. Vasso studied Theatre and Literature at the University of Athens. She holds a master’s degree in Cultural Management from Panteion University and a research master’s degree in Gender Studies from Utrecht University.
+	</div>
+</div>	
+
+
 #### Internship Director 
 
 <div class="bio">
@@ -32,8 +42,7 @@ published: true
 	</div>
 </div>	
 
-
-#### Interns
+#### The Fixer
 
 <div class="bio">
 	<img src="{{ site.url }}/img/Nick.png"/>
@@ -41,6 +50,8 @@ published: true
 		<b><a href="https://nicholascburman.com">Nicholas Burman</a></b> is a writer, event assistant, and student from the UK, based in Amsterdam. He conducts interviews with the underground music scene for MusicMap, writes about the Dutch creative environment on the Skandl Notebook, and is a regular contributor for independent free-paper Amsterdam Alternative. He is currently studying Literature and Society at the VU Amsterdam, where he is also on the board for the Expanded Field creative writing journal and has most recently been the production assistant for the ASAP/Amsterdam Symposium 2018.
 	</div>
 </div>	
+
+#### Intern
 
 <div class="bio">
 	<img src="{{ site.url }}/img/Doga.jpg"/>

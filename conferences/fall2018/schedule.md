@@ -169,6 +169,6 @@ Chair: Freija Camps
 Discussants: Simon Grennan, Anna Poletti, Gaston Franssen, and Joyce Lamerichs
 </pre>
 
-18:00-19:00	__Comics Artists Tables and Closing Party__
+18:30-19:30	__Comics Artists Tables and Closing Party__
 <pre>Artists: Zone 5300: Tonio van Vugt & Natasja van Loon, Maia Matches (Maia Machèn), 
 Margreet de Heer, Juliacks, and Jelko Arts</pre>
