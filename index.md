@@ -1,5 +1,5 @@
 ---
-layout: conf2018
+layout: conf2022
 title: Amsterdam Comics
 published: true
 ---
