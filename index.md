@@ -5,7 +5,7 @@ published: true
 ---
 
 <div style="display: block; margin: auto; text-align: center; font-size: 24pt;">
-    <a href="conferences/fall2022"><img src="conferences/fall2022/img/CFP_poster_2022.png" alt="" style="width: 700px; margin-top: -30px;"/></a>
+    <a href="conferences/fall2022"><img src="conferences/fall2022/img/CFP_poster_2022.png" alt="" style="width: 45em; margin-top: -30px;"/></a>
 </div>
 
 
